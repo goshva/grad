@@ -104,63 +104,133 @@
   </div>
 </section>
 
+<script>
+  let username = "goshva13"
+  let userurl = "temp1"
+  function injector (id,text){
+    document.getElementById(id).innerText = text
+  }
+  async function init(data) {
+    var url = "https://www.instagram.com/"+username+"/?__a=1";
+    let response = await fetch(url);
+              if (response.ok) { 
+    let json = await response.json();
+      injector("json.graphql.user.biography", json.graphql.user.biography)
+      injector("json.graphql.user.full_name", json.graphql.user.full_name)
+      document.getElementById("json.graphql.user.profile_pic_url_hd").src = json.graphql.user.profile_pic_url_hd
+              } else {
+              alert("Ошибка HTTP: " + response.status);
+    }
+  }
+  init();
+</script>
 <section class="section pt-0">
   <div class="container">
     <div class="row">
       
+      kuku
       
-      <div class="col-lg-8 mx-auto mb-5">
-        <article class="card rounded-0 border-0">
-          <img src="https://grad-masterov.ru" alt="Taba Cream" class="card-img-top rounded-top-0">
-          <div class="card-body px-0">
-            <a href="https://grad-masterov.ru/products/taba-cream.1/" class="h4 d-block">Taba Cream</a>
-            <ul class="list-inline">
-              <li class="list-inline-item"><i class="ti-pencil-alt text-primary mr-2"></i> By 1qweqwe</li>
-              <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
-                17 Oct, 2019</li>
-            </ul>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <a href="https://grad-masterov.ru/products/taba-cream.1/" class="btn btn-sm btn-outline-primary">Read More</a>
+      
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card border-0 text-center">
+          <a href="https://grad-masterov.ru/products/taba-cream.1/">
+            
+            
+                <img src="https://grad-masterov.ru/images/products/product-2.png" alt="images/products/product-2.png" class="card-img-top rounded-top-0">
+            
+            
+          </a>
+          test14
+          <div class="card-body">
+            <a href="https://grad-masterov.ru/products/taba-cream.1/" class="h4">Taba Cream</a>
+            <p>For Glowing Skin</p>
+            <div class="mb-4">
+              
+              <s>$25.00</s>
+              
+              <span class="lead text-primary">$20.00</span>
+            </div>
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="1"
+              data-item-name="Taba Cream" 
+              
+                
+                data-item-image="https://grad-masterov.ru/images/products/product-2.png"
+                 
+               
+              data-item-price="20.00" data-item-url="https://grad-masterov.ru/products/taba-cream.1/" data-item-description="For Glowing Skin">
+              Add to cart
+            </button>
           </div>
-        </article>
+        </div>
       </div>
       
-      <div class="col-lg-8 mx-auto mb-5">
-        <article class="card rounded-0 border-0">
-          <img src="https://grad-masterov.ru" alt="Taba Cream" class="card-img-top rounded-top-0">
-          <div class="card-body px-0">
-            <a href="https://grad-masterov.ru/products/taba-cream.2/" class="h4 d-block">Taba Cream</a>
-            <ul class="list-inline">
-              <li class="list-inline-item"><i class="ti-pencil-alt text-primary mr-2"></i> By </li>
-              <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
-                17 Oct, 2019</li>
-            </ul>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <a href="https://grad-masterov.ru/products/taba-cream.2/" class="btn btn-sm btn-outline-primary">Read More</a>
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card border-0 text-center">
+          <a href="https://grad-masterov.ru/products/taba-cream.2/">
+            
+            
+                <img src="https://grad-masterov.ru/images/products/product-3.png" alt="images/products/product-3.png" class="card-img-top rounded-top-0">
+            
+            
+          </a>
+          test14
+          <div class="card-body">
+            <a href="https://grad-masterov.ru/products/taba-cream.2/" class="h4">Taba Cream</a>
+            <p>For Glowing Skin</p>
+            <div class="mb-4">
+              
+              <s>$25.00</s>
+              
+              <span class="lead text-primary">$20.00</span>
+            </div>
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="2"
+              data-item-name="Taba Cream" 
+              
+                
+                data-item-image="https://grad-masterov.ru/images/products/product-3.png"
+                 
+               
+              data-item-price="20.00" data-item-url="https://grad-masterov.ru/products/taba-cream.2/" data-item-description="For Glowing Skin">
+              Add to cart
+            </button>
           </div>
-        </article>
+        </div>
       </div>
       
-      <div class="col-lg-8 mx-auto mb-5">
-        <article class="card rounded-0 border-0">
-          <img src="https://grad-masterov.ru" alt="TEsttag" class="card-img-top rounded-top-0">
-          <div class="card-body px-0">
-            <a href="https://grad-masterov.ru/products/testtag/" class="h4 d-block">TEsttag</a>
-            <ul class="list-inline">
-              <li class="list-inline-item"><i class="ti-pencil-alt text-primary mr-2"></i> By </li>
-              <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
-                17 Oct, 2019</li>
-            </ul>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <a href="https://grad-masterov.ru/products/testtag/" class="btn btn-sm btn-outline-primary">Read More</a>
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card border-0 text-center">
+          <a href="https://grad-masterov.ru/products/testtag/">
+            
+            
+                <img src="https://grad-masterov.ru/images/products/product-2.png" alt="images/products/product-2.png" class="card-img-top rounded-top-0">
+            
+            
+          </a>
+          test14
+          <div class="card-body">
+            <a href="https://grad-masterov.ru/products/testtag/" class="h4">TEsttag</a>
+            <p>For Glowing Skin</p>
+            <div class="mb-4">
+              
+              <s>$25.00</s>
+              
+              <span class="lead text-primary">$20.00</span>
+            </div>
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="1"
+              data-item-name="TEsttag" 
+              
+                
+                data-item-image="https://grad-masterov.ru/images/products/product-2.png"
+                 
+               
+              data-item-price="20.00" data-item-url="https://grad-masterov.ru/products/testtag/" data-item-description="For Glowing Skin">
+              Add to cart
+            </button>
           </div>
-        </article>
+        </div>
       </div>
       
     </div>
-    
-
-
   </div>
 </section>
 

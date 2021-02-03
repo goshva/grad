@@ -104,47 +104,80 @@
   </div>
 </section>
 
+<script>
+  let username = "goshva13"
+  let userurl = "temp1"
+  function injector (id,text){
+    document.getElementById(id).innerText = text
+  }
+  async function init(data) {
+    var url = "https://www.instagram.com/"+username+"/?__a=1";
+    let response = await fetch(url);
+              if (response.ok) { 
+    let json = await response.json();
+      injector("json.graphql.user.biography", json.graphql.user.biography)
+      injector("json.graphql.user.full_name", json.graphql.user.full_name)
+      document.getElementById("json.graphql.user.profile_pic_url_hd").src = json.graphql.user.profile_pic_url_hd
+              } else {
+              alert("Ошибка HTTP: " + response.status);
+    }
+  }
+  init();
+</script>
 <section class="section pt-0">
   <div class="container">
     <div class="row">
       
+      kuku
       
-      <div class="col-lg-8 mx-auto mb-5">
-        <article class="card rounded-0 border-0">
-          <img src="https://grad-masterov.ru/images/blog/post-2.jpg" alt="Human Gut Microbes Could Make Processed Foods Healthier" class="card-img-top rounded-top-0">
-          <div class="card-body px-0">
-            <a href="https://grad-masterov.ru/blog/post-2/" class="h4 d-block">Human Gut Microbes Could Make Processed Foods Healthier</a>
-            <ul class="list-inline">
-              <li class="list-inline-item"><i class="ti-pencil-alt text-primary mr-2"></i> By John Doe</li>
-              <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
-                17 Oct, 2019</li>
-            </ul>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <a href="https://grad-masterov.ru/blog/post-2/" class="btn btn-sm btn-outline-primary">Read More</a>
+      
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card border-0 text-center">
+          <a href="https://grad-masterov.ru/blog/post-2/">
+            
+          </a>
+          test14
+          <div class="card-body">
+            <a href="https://grad-masterov.ru/blog/post-2/" class="h4">Human Gut Microbes Could Make Processed Foods Healthier</a>
+            <p>this is a meta description</p>
+            <div class="mb-4">
+              
+              <span class="lead text-primary">$</span>
+            </div>
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id=""
+              data-item-name="Human Gut Microbes Could Make Processed Foods Healthier" 
+               
+              data-item-price="" data-item-url="https://grad-masterov.ru/blog/post-2/" data-item-description="this is a meta description">
+              Add to cart
+            </button>
           </div>
-        </article>
+        </div>
       </div>
       
-      <div class="col-lg-8 mx-auto mb-5">
-        <article class="card rounded-0 border-0">
-          <img src="https://grad-masterov.ru/images/blog/post-1.jpg" alt="Lower Back Pain? Self-Administered Acupressure Could Help" class="card-img-top rounded-top-0">
-          <div class="card-body px-0">
-            <a href="https://grad-masterov.ru/blog/post-1/" class="h4 d-block">Lower Back Pain? Self-Administered Acupressure Could Help</a>
-            <ul class="list-inline">
-              <li class="list-inline-item"><i class="ti-pencil-alt text-primary mr-2"></i> By John Doe</li>
-              <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
-                17 Oct, 2019</li>
-            </ul>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <a href="https://grad-masterov.ru/blog/post-1/" class="btn btn-sm btn-outline-primary">Read More</a>
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card border-0 text-center">
+          <a href="https://grad-masterov.ru/blog/post-1/">
+            
+          </a>
+          test14
+          <div class="card-body">
+            <a href="https://grad-masterov.ru/blog/post-1/" class="h4">Lower Back Pain? Self-Administered Acupressure Could Help</a>
+            <p>this is a meta description</p>
+            <div class="mb-4">
+              
+              <span class="lead text-primary">$</span>
+            </div>
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id=""
+              data-item-name="Lower Back Pain? Self-Administered Acupressure Could Help" 
+               
+              data-item-price="" data-item-url="https://grad-masterov.ru/blog/post-1/" data-item-description="this is a meta description">
+              Add to cart
+            </button>
           </div>
-        </article>
+        </div>
       </div>
       
     </div>
-    
-
-
   </div>
 </section>
 
