@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      {{ range .Pages }}
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card border-0 text-center">
+          <a href="{{ .Permalink }}">
+            {{ with .Params.Images }}
+            {{ range first 1 . }}
+                <img src="{{ .image | absURL }}" alt="{{ .image | markdownify }}" class="card-img-top rounded-top-0">
+            {{ end }}
+            {{ end }}
+          </a>
+          <div class="card-body">
+            <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
+            <p>{{ .Params.Description }}</p>
+            <div class="mb-4">
+              {{ if .Params.PriceBefore }}
+              <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
+              {{ end }}
+              <span class="lead text-primary">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
+            </div>
+            <button 
+            class="snipcart-add-item btn btn-sm btn-outline-primary"
+            onclick="location.href = {{ .Permalink }}">
+              Товары
+            </button>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "cta.html" . }}
+
+{{ end }}

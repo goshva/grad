@@ -2,34 +2,9 @@
 
 {{ partial "page-title.html" . }}
 
-<script>
-  let username = "goshva13"
-  let userurl = "temp1"
-  function injector (id,text){
-    document.getElementById(id).innerText = text
-  }
-  async function init(data) {
-    var url = "https://www.instagram.com/"+username+"/?__a=1";
-    let response = await fetch(url);
-              if (response.ok) { 
-    let json = await response.json();
-      injector("json.graphql.user.biography", json.graphql.user.biography)
-      injector("json.graphql.user.full_name", json.graphql.user.full_name)
-      document.getElementById("json.graphql.user.profile_pic_url_hd").src = json.graphql.user.profile_pic_url_hd
-              } else {
-              alert("Ошибка HTTP: " + response.status);
-    }
-  }
-  init();
-</script>
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      {{ if .Data.Pages }}
-      kuku
-      {{ else }}
-      exeptio
-      {{ end }}
       {{ range .Data.Pages }}
       <div class="col-lg-4 col-sm-6 mb-4">
         <div class="card border-0 text-center">
@@ -40,7 +15,6 @@
             {{ end }}
             {{ end }}
           </a>
-          test14
           <div class="card-body">
             <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
             <p>{{ .Params.Description }}</p>
@@ -51,13 +25,11 @@
               <span class="lead text-primary">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
-              data-item-name="{{ .Title }}" 
-              {{ with .Params.Images }}
-                {{ range first 1 . }}
-                data-item-image="{{ .image | absURL }}"
-                {{ end }} 
+              data-item-name="{{ .Title }}"           {{ with .Params.Images }}
+              {{ range first 1 . }}
+              data-item-image="{{ .image | absURL }}"
               {{ end }} 
-              data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
+              {{ end }}  data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
               Add to cart
             </button>
           </div>
