@@ -33,48 +33,48 @@ enableEmoji = true
 [menu]
 
   [[menu.main]]
-  name = "Products"
+  name = "Товары"
   URL = "products"
   weight = 1
 
   [[menu.main]]
-  name = "Blog"
+  name = "Блог"
   URL = "blog"
   weight = 2
 
   [[menu.main]]
-  name = "FAQ"
+  name = "ЧаВо"
   URL = "faq"
   weight = 3
 
   [[menu.main]]
-  name = "Contact"
+  name = "Контакты"
   URL = "contact"
   weight = 4
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Товары"
   URL = "products"
   weight = 1
 
   [[menu.footer]]
-  name = "Blog"
+  name = "Блог"
   URL = "blog"
   weight = 2
 
   [[menu.footer]]
-  name = "FAQ"
+  name = "ЧаВо"
   URL = "faq"
   weight = 3
 
   [[menu.footer]]
-  name = "Terms & Conditions"
+  name = "Правила и соглашения"
   URL = "terms-conditions"
   weight = 4
 
   [[menu.footer]]
-  name = "Contact"
+  name = "Контакты"
   URL = "contact"
   weight = 5
 
@@ -82,7 +82,7 @@ enableEmoji = true
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "🏠"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -94,9 +94,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "89187887119"
+email = "shop@grad-masterov.ru"
+location = "КМВ, Ставропольский край"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
