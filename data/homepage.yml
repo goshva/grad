@@ -1,92 +1,87 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "Град Мастеров"
+  content : "Рады приветствовать вас на нашем фестевале-ярмарке. Здесь мы собрали для вас уникальные сувениры сделаные нашеми умельцами, сделаные с любовью и заботой об окружающей среде."
   image : "images/banner.png"
   # button
   button:
     enable : true
-    label : "All Products"
+    label : "Посмотреть всё"
     link : "products"
   # demo video
   video:
     enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    videoURL : "https://youtu.be/mrbvDE93co0"
 
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
-  image : "images/about.png"
+  title : "Ярмарки под открытым небом"
+  content : "Мы проводим и настоящие праздники под открытым небом. Это и выступления и развлечения и ярамрки. Присоеденяйтесь к нам!"
+  image : "images/about.jpg"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Эстетика, здоровье и польза"
+  content : "В каждом изделии заряд позитива и добра. Гарантируем :)"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
+    label : "Посмотреть всё"
     link : "products"
 
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  title : "Состав нашего успеха"
+  subtitle : "Ингридиенты просты, но каждый из них ключевой:"
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
+    - title : "Проффесионалы"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Мастера сочетают личный опыт и традиционные технологии"
       
     # material item loop
-    - title : "Aloe Vera"
+    - title : "Неповторимость"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Штучный коллекционный товар, залог того что за действительно соящими вещями люди приходят к нам"
       
     # material item loop
-    - title : "Turmeric"
+    - title : "Контроль качества"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Мы проверяем целосность перед каждой продажей и пользуемся заботливой доставкой"
       
     # material item loop
-    - title : "Tulshi leaf"
+    - title : "Система скидок"
       image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Так как сам производим с нами легко договорится о скидках и рассрочках, проверьте"
 
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  title : "Кому тут будет интересно?"
+  subtitle : "Мы открыты к сотрудничеству и постоянно ищем новое. Поэтому если мы будем рады если напишете нам. Вот кого мы особенно желаем видеть на нашей площадке:"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Мастеров-умельцев"
+    - listItem : "SMM - специалистов"
+    - listItem : "Представителей городских администрации"
+    - listItem : "Предпринимателей"
+    - listItem : "Путешественников и Музыкантов"
+    - listItem : "Производственников"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  title : "Наше дело"
+  content : "Как проходят фестивали и немного о наших бизнес-ангелах"
   videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  videoURL : "../video/how2.mp4"
 
 
 ######################## Products #############################
