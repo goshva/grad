@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-import json 
+import sys
+import json
 from datetime import datetime
 
 def add2text (name,date,sortcode,title,discription,images):
@@ -34,10 +35,10 @@ lorem
 '''
     return text
 
-
-name = "russian_izba"
+destUrl = "/home/goshva/hugo-sites/grad/content/products/"
+name = sys.argv[1]
 # Opening JSON file 
-f = open(name+'.json',) 
+f = open(name+'/'+name+'.json',) 
   
 # returns JSON object as  
 # a dictionary 
@@ -64,7 +65,6 @@ for i in data['GraphImages']:
     for u in i["urls"]:
         if ".jpg"  in u:
             images.append(u)
-            print(u)
 
     edges = i["edge_media_to_caption"]["edges"]
     for u in edges: 
@@ -73,12 +73,14 @@ for i in data['GraphImages']:
         imageStr = '''  - image: "'''+image+'''"\n'''
         imagesList+=imageStr
     fulldiscription = fulldiscription.replace('"','\\"')
+    fulldiscription = fulldiscription.replace('-','//-')
     if fulldiscription: #checkit
         title = fulldiscription.split()[0]
 #    if "#" in discription:
 #        discriptiontitle = fulldiscription.split('#', 1)[1]
-    if imagesList and len(imagesList) > 1:
-        f = open(name+"_"+i["shortcode"]+".md", "w")
+    if imagesList and len(images) > 1:
+        print(destUrl+name+"_"+i["shortcode"]+".md")
+        f = open(destUrl+name+"_"+i["shortcode"]+".md", "w")
         f.write(add2text(name,date,shortcode,title,fulldiscription,imagesList))
         f.close()
 

@@ -130,7 +130,7 @@ currencySymbol = "$"
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.instagram.com/grad_masterov/"
 
   [[params.social]]
   icon = "ti-pinterest"

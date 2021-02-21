@@ -29,6 +29,8 @@
         </div>
         <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
+          <a href="https://www.instagram.com/p/{{ .Params.productID | safeURL }}"><i class="ti-instagram text-primary"></i></a>
+        </p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}"           {{ with .Params.Images }}
           {{ range first 1 . }}
