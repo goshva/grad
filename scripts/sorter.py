@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 import sys
 import json
+import re
 from datetime import datetime
 
-def add2text (name,date,sortcode,title,discription,images):
+def add2text (name,date,sortcode,title,discription,price,images):
     text = '''---
 title: "'''+title+'''"
 date: '''+date+'''
@@ -14,7 +15,7 @@ tags: ["'''+name+'''"]
 description : "'''+discription[:160]+'''"
 
 # product Price
-price: "20.00"
+price: "'''+price+'''"
 priceBefore: "25.00"
 
 # Product Short Description
@@ -36,6 +37,8 @@ lorem
     return text
 
 destUrl = "/home/goshva/hugo-sites/grad/content/products/"
+char = "₽"
+
 name = sys.argv[1]
 # Opening JSON file 
 f = open(name+'/'+name+'.json',) 
@@ -54,6 +57,8 @@ for i in data['GraphImages']:
     timestamp = ""
     date = ""
     discription = ""
+    fulldiscription =""
+    price=""
     #   if "tags" in i:
 #       for tag in i["tags"]: 
 #           print(tag)
@@ -62,6 +67,7 @@ for i in data['GraphImages']:
      
     timestamp =  i["taken_at_timestamp"] 
     date = datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d')
+
     for u in i["urls"]:
         if ".jpg"  in u:
             images.append(u)
@@ -69,6 +75,12 @@ for i in data['GraphImages']:
     edges = i["edge_media_to_caption"]["edges"]
     for u in edges: 
         fulldiscription =u["node"]['text']
+
+    if "₽" in fulldiscription:
+        pricewhithcur =re.findall(r"\d+" + char , fulldiscription)[0]
+        price = pricewhithcur[0:-1] 
+
+
     for image in images:
         imageStr = '''  - image: "'''+image+'''"\n'''
         imagesList+=imageStr
@@ -76,12 +88,12 @@ for i in data['GraphImages']:
     fulldiscription = fulldiscription.replace('-','//-')
     if fulldiscription: #checkit
         title = fulldiscription.split()[0]
-#    if "#" in discription:
-#        discriptiontitle = fulldiscription.split('#', 1)[1]
+
+
     if imagesList and len(images) > 1:
         print(destUrl+name+"_"+i["shortcode"]+".md")
         f = open(destUrl+name+"_"+i["shortcode"]+".md", "w")
-        f.write(add2text(name,date,shortcode,title,fulldiscription,imagesList))
+        f.write(add2text(name,date,shortcode,title,fulldiscription,price,imagesList))
         f.close()
 
 f.close()

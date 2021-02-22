@@ -8,7 +8,7 @@ tags: ["goshva13"]
 description : "Порвал сухожилье на мизинчике. Гипс до весны. Берегите себя, друзяши. 13₽"
 
 # product Price
-price: "20.00"
+price: "13"
 priceBefore: "25.00"
 
 # Product Short Description
