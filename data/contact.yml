@@ -3,21 +3,21 @@ contact:
   enable : true
   # office
   office:
-    title : "Central Office"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+    title : "Центральный офис"
+    content : "Россия, Ставропольский край, Кисловодск, улица Чайковского, 26А Точка.PRO"
     # other information comes from "config.toml"
 
   # opennig hour
   opennigHour:
     title : "Opening Hours"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
-      - dayTime : "Wednesday: 9:00 – 19:00"
-      - dayTime : "Thursday: 9:00 – 19:00"
-      - dayTime : "Friday: 9:00 – 19:00"
-      - dayTime : "Saturday: 9:00 – 19:00"
-      - dayTime : "sunday: 9:00 – 19:00"
+      - dayTime : "Пн: 9:00 – 19:00"
+      - dayTime : "Вт: 9:00 – 19:00"
+      - dayTime : "Ср: 9:00 – 19:00"
+      - dayTime : "Чт: 9:00 – 19:00"
+      - dayTime : "Пт: 9:00 – 19:00"
+      - dayTime : "Сб: 9:00 – 19:00"
+      - dayTime : "Вс: 9:00 – 19:00"
 
 ####################### google map ########################
 map:

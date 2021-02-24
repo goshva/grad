@@ -10,8 +10,8 @@ description : "Наши малыши очень интересный, любоз
 Им всегда и все необходимо трогать, пробовать на вкус. И обязательно, чтобы рядом кто//-то"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Наши малыши очень интересный, любознательный и требовательный народ.
@@ -52,11 +52,11 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/149660638_116067937119161_6367186487154424310_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=1mz1u-WU0AcAX_RougX&se=7&tp=1&oh=907e4addbb2e2bf469f4e7eb38e39354&oe=605D3CC7&ig_cache_key=MjUwODAzMTExODMwMzc5MzA2Ng%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/148947277_3533958010066800_7644268182257794402_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=JJhGi8Wk2ccAX_fU85D&se=7&tp=1&oh=24712e1a3cee0b078f2d52a926620286&oe=605B9B8A&ig_cache_key=MjUwODAzMTExODI5NTM0NjE1Ng%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/148938783_3859722760760553_7081298158916425561_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=MUQ-RNCn8X8AX_lgJ0G&se=8&tp=1&oh=8bf2975a99b7e140cfc7d39d15bd09d1&oe=605A76D3&ig_cache_key=MjUwODAzMTExODI3ODUwODkyNQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/149405000_1202265533524386_7340730816113722873_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=UNPjIkct6xkAX9x10GC&tp=1&oh=117a18e9b78ecbc9d5e6981483440b63&oe=605A7494&ig_cache_key=MjUwODAzMTExODM5NTkyNDkwNg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/148698678_1353002758392326_4490213292047366960_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=symT3Mt1rH4AX-g3dCp&se=8&tp=1&oh=72e568b2278bd9380c8ae34307b13e96&oe=605B68CB&ig_cache_key=MjUwODAzMTExODI5NTM0MzQ5NA%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/149660638_116067937119161_6367186487154424310_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=6IEwh0QXJaQAX8RQLZb&se=7&tp=1&oh=47c058d58263b33002d6a43623fa6f30&oe=60613147&ig_cache_key=MjUwODAzMTExODMwMzc5MzA2Ng%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/148947277_3533958010066800_7644268182257794402_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=vBriKj4KllUAX8wQ4dX&se=7&tp=1&oh=9bd9bcd9a48e236d55e2ad71ed8ea9c7&oe=605F900A&ig_cache_key=MjUwODAzMTExODI5NTM0NjE1Ng%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/148938783_3859722760760553_7081298158916425561_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=UnnZRfppfncAX9sX2n2&se=8&tp=1&oh=1690d538a89b6278b0f24e1afbeec489&oe=605E6B53&ig_cache_key=MjUwODAzMTExODI3ODUwODkyNQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/149405000_1202265533524386_7340730816113722873_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=DkLiGmGpFx4AX_SBo-6&tp=1&oh=44c04102ceeff7322a527d9377ec05d2&oe=605E6914&ig_cache_key=MjUwODAzMTExODM5NTkyNDkwNg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/148698678_1353002758392326_4490213292047366960_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=tLzUHheP4KcAX_mhbrX&se=8&tp=1&oh=bbd3539d01fff4086ce22452437854f3&oe=605F5D4B&ig_cache_key=MjUwODAzMTExODI5NTM0MzQ5NA%3D%3D.2"
 
 ---
 lorem

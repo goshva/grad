@@ -12,8 +12,8 @@ description : "Как сделать вкусно и просто... Булоч�
 Надеюсь прошлый рецепт вам понравился и вы попробова"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Как сделать вкусно и просто... Булочки с яблоком.🍏
@@ -84,8 +84,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120815962_2694640034094042_5772543777271435372_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=Q8Pb9he_JIQAX_ULHtO&se=7&tp=1&oh=1d17bdc2463923f8ef58e68e2dcf6490&oe=6059EC74&ig_cache_key=MjQxNDU0MDYwMzMzNjM1OTg3Mg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120844284_2404193229889736_6537619353250704172_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=9NC0e8NK7lUAX86Hrbr&se=7&tp=1&oh=2f5d7d87e17c0eecaab5b6200ed97f59&oe=605B0546&ig_cache_key=MjQxNDU0MDYwMzM0NDU5MzgxNg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120815962_2694640034094042_5772543777271435372_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=Tqyqki7u4OIAX_9au6n&se=7&tp=1&oh=44c73887094a9ffbd50eaf76ab520b08&oe=605DE0F4&ig_cache_key=MjQxNDU0MDYwMzMzNjM1OTg3Mg%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120844284_2404193229889736_6537619353250704172_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=nhUk5o1zGjwAX8liDld&se=7&tp=1&oh=7dc6783b8daa1ad9990cf056be63afba&oe=605EF9C6&ig_cache_key=MjQxNDU0MDYwMzM0NDU5MzgxNg%3D%3D.2"
 
 ---
 lorem

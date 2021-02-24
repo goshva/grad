@@ -8,8 +8,8 @@ tags: ["dubrovinanatalia1963"]
 description : "Дед мороз не бревне//-пакетница"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Дед мороз не бревне//-пакетница"
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/74665251_2487494578160371_7985119953929522534_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=7pTmC7nFPAIAX-GxWQo&se=7&tp=1&oh=99a7f3f06b5504b278aa6d021c40b491&oe=605B81E7&ig_cache_key=MjE5MzcxMzY4OTM1ODI3MjQzOA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/72485737_157348955524687_4625439261959557386_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=SXN2FpF06OMAX-QPlCT&se=7&tp=1&oh=719bb0a80fa02bbcf2bacaf31b07811d&oe=605A0E50&ig_cache_key=MjE5MzcxMzY4OTM4MzYyNzAyMw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/74665251_2487494578160371_7985119953929522534_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=_ueBRmyRBeIAX-8jWD2&se=7&tp=1&oh=9b742f8e8bf241238e95de527edf5cfd&oe=605F7667&ig_cache_key=MjE5MzcxMzY4OTM1ODI3MjQzOA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/72485737_157348955524687_4625439261959557386_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=kO3G2gKiswwAX-S15wr&se=7&tp=1&oh=fffb7aa52e59f5f43516e705b6b3b140&oe=605E02D0&ig_cache_key=MjE5MzcxMzY4OTM4MzYyNzAyMw%3D%3D.2"
 
 ---
 lorem

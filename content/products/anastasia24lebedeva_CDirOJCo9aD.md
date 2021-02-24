@@ -9,8 +9,8 @@ description : "А вот и она, Моя Зайка.
 Скажу вам так //- это любофффь с первого взгляда. Она очень нежная и милая. Родилась на одном дыхании, что бывает редко. Эта девушка мод"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "А вот и она, Моя Зайка.
@@ -34,8 +34,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116847334_625321081432062_8572880355790492616_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=1ZxdOkao2joAX-Vm0h6&se=7&tp=1&oh=83fa43e104381938f3e6b05ffc09b7a6&oe=605AFBA1&ig_cache_key=MjM2OTY0NjQzMzgxMjA1Nzg2NQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116792852_991635151271018_3049555790804864883_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=j8CYO6S5z00AX_gx6VT&se=7&tp=1&oh=cb6fadd6b72a5015627d59f188531c0e&oe=605B36F2&ig_cache_key=MjM2OTY0NjQzMzgyODgxNDM4NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116847334_625321081432062_8572880355790492616_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=XF6XENuE5l4AX-GcllD&se=7&tp=1&oh=b3fa19636e59e99eb7ca18dd32ce258a&oe=605EF021&ig_cache_key=MjM2OTY0NjQzMzgxMjA1Nzg2NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116792852_991635151271018_3049555790804864883_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=FQtf4KlrwkMAX_7cV3w&se=7&tp=1&oh=000eef11b756f1598e83dece73de105d&oe=605F2B72&ig_cache_key=MjM2OTY0NjQzMzgyODgxNDM4NQ%3D%3D.2"
 
 ---
 lorem

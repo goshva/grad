@@ -27,7 +27,7 @@
           {{ end }}
           <span class="lead text-primary font-weight-medium">{{ .Params.Price }}{{ site.Params.currencySymbol }}</span>
         </div>
-        <h5>Short Description</h5>
+        <h5>Описание</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
           <a href="https://www.instagram.com/p/{{ .Params.productID | safeURL }}"><i class="ti-instagram text-primary"></i></a>
         </p>
@@ -37,7 +37,7 @@
           data-item-image="{{ .image | absURL }}"
           {{ end }} 
           {{ end }}  data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-          Add to cart
+          {{ site.Params.addToCard }}
         </button>
       </div>
       <div class="col-12 mt-5">

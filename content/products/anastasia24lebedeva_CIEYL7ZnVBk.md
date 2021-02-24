@@ -10,8 +10,8 @@ description : "Скоро такой приятный и нежный празд
 А что может быть приятнее пирога, д"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Скоро такой приятный и нежный праздник, день Мамы.  В этот день, как никогда нужно показать мамам свою любовь и уважение...
@@ -68,8 +68,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/127283777_371056607504259_2761049312430921724_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=j2eZvru9HpsAX9rDufv&se=7&tp=1&oh=c73d6282dcdb0d178d31691d93bca671&oe=605B9FDA&ig_cache_key=MjQ1MTE5MDQ2NjYwMTU1MzIwNg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/127196999_177141797400908_2740790452596293455_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=brv-m1cpKnoAX-Kscs_&se=7&tp=1&oh=cd82d369d85f421aecd42701e204177c&oe=605BE7CF&ig_cache_key=MjQ1MTE5MDQ2NjcxOTI0Mjk1MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/127283777_371056607504259_2761049312430921724_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=Jan4Xwvo160AX_vmEJL&se=7&tp=1&oh=567e4f8fb78ce7f4582ee3930ba79f29&oe=605F945A&ig_cache_key=MjQ1MTE5MDQ2NjYwMTU1MzIwNg%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/127196999_177141797400908_2740790452596293455_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=rpVFvsFkZZMAX8mzznT&se=7&tp=1&oh=8ed7ae61a437a4a3fb25b577b5088e84&oe=605FDC4F&ig_cache_key=MjQ1MTE5MDQ2NjcxOTI0Mjk1MQ%3D%3D.2"
 
 ---
 lorem

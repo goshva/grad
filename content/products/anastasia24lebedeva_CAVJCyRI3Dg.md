@@ -14,8 +14,8 @@ description : "Вы посмотрите только в эти глазки,
 Стоимость переезда 800рублей+ус"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Вы посмотрите только в эти глазки,
@@ -37,9 +37,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/97551952_710545369748842_990144798626980437_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=EoWTUr6mOBsAX-w5gKX&se=7&tp=1&oh=efbdc04fa63e20a457e1797a26ca9cee&oe=605BB2F2&ig_cache_key=MjMxMTc5Mzc1MDI1ODcxMjQ5MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/98423638_925957311197951_8296586484488909603_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=ThgxjeCBODAAX9JTgYy&se=7&tp=1&oh=54b9e16acaee2dc62cb462fa990691df&oe=605BF5A9&ig_cache_key=MjMxMTc5Mzc1MDI3NTUxNTcwNQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/98119140_128730285476374_4701159012659992877_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=T8owiVHjS1gAX8NEB3h&se=7&tp=1&oh=1894ac3da934f17d9835b3a69338461b&oe=605D1BCC&ig_cache_key=MjMxMTc5Mzc1MDI1MDMxMTEyMg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/97551952_710545369748842_990144798626980437_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=54t_4lqLrDkAX-ldHjj&se=7&tp=1&oh=9a21712413415d42f6fa2974f69036ce&oe=605FA772&ig_cache_key=MjMxMTc5Mzc1MDI1ODcxMjQ5MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/98423638_925957311197951_8296586484488909603_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=th9iRYgyHTkAX-m3ESP&se=7&tp=1&oh=e34a016ebd8d23e8c30de535a5f1af49&oe=605FEA29&ig_cache_key=MjMxMTc5Mzc1MDI3NTUxNTcwNQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/98119140_128730285476374_4701159012659992877_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=2hOr3lYxfdIAX8JBafl&se=7&tp=1&oh=628e6a7f2a9b3cf7d8b322b4d1dfd4ae&oe=6061104C&ig_cache_key=MjMxMTc5Mzc1MDI1MDMxMTEyMg%3D%3D.2"
 
 ---
 lorem

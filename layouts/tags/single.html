@@ -32,13 +32,13 @@
         <p>{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" 
-          {{ with .Params.Images }}
+        {{ with .Params.Images }}
           {{ range first 1 . }}
           data-item-image="{{ .image | absURL }}"
           {{ end }} 
         {{ end }} 
           data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-          Add to cart
+          {{ site.Params.addToCard }}
         </button>
       </div>
       <div class="col-12 mt-5">

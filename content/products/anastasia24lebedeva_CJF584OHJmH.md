@@ -10,8 +10,8 @@ description : "8 снегурочек или одна роль на 8 лет...
 Наверное каждая девочка хочет побывать в главной роли на новый год. Надеть красивый наряд и побывать в роли внучки Деда "
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "8 снегурочек или одна роль на 8 лет...
@@ -40,9 +40,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/132031473_820023535506553_774465993577549242_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=NFihU1UTb8wAX9IENdF&se=7&tp=1&oh=060dba11e5794fb0daf74a6608f59dad&oe=605A657E&ig_cache_key=MjQ2OTYzNDgzOTY5NzY5MjI2MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/132010247_836336183742227_4649495111973938051_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=s9ErnFO5nOYAX9TmqXr&se=7&tp=1&oh=18fdcfbc35c50a624e3da73ac875ceeb&oe=605BF213&ig_cache_key=MjQ2OTYzNDgzOTY4MDk1MzI2MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/132037158_347032800085682_7397088401900935656_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=U49If4xRqlIAX_A8vLC&se=7&tp=1&oh=63a1515b2d2ef7a28bc4397580c111c7&oe=605AEAD6&ig_cache_key=MjQ2OTYzNDgzOTY4OTQxOTU3NA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/132031473_820023535506553_774465993577549242_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=NFihU1UTb8wAX-kjbF5&se=7&tp=1&oh=2c138493c0e7fe2b1bd3785730109bf9&oe=605E59FE&ig_cache_key=MjQ2OTYzNDgzOTY5NzY5MjI2MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/132010247_836336183742227_4649495111973938051_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=sNc3FmzxWfwAX8JDGvr&se=7&tp=1&oh=9792f24827e7e71ef6890ff6ed7ae9ee&oe=605FE693&ig_cache_key=MjQ2OTYzNDgzOTY4MDk1MzI2MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/132037158_347032800085682_7397088401900935656_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=mL6S_zUTai0AX_pyBhl&se=7&tp=1&oh=cf9037c6a15dc2345c28e3c1197bb993&oe=605EDF56&ig_cache_key=MjQ2OTYzNDgzOTY4OTQxOTU3NA%3D%3D.2"
 
 ---
 lorem

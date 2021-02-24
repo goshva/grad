@@ -12,8 +12,8 @@ description : "Об инструментах.
 Начнё"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Об инструментах.
@@ -51,8 +51,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120036020_331367321424130_1854004756711870818_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=9EjjSgNZFiYAX-a6DIm&se=8&tp=1&oh=9b81d820f016201289b3610ace77b6b8&oe=605C7D67&ig_cache_key=MjQwNTI5MjI3MTE1NDE2MTc0MQ%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120197888_2634140610158969_5484336114769601610_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=fQCu6IIGyDoAX-g7zEk&se=7&tp=1&oh=b97e7dbd74d86e26e3a8c11828567746&oe=605B2EC7&ig_cache_key=MjQwNTI5MjI3MTE0NTY5NDQ0MA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120036020_331367321424130_1854004756711870818_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=VRGfVXURQ2EAX_4dOjv&se=8&tp=1&oh=cd560e31a7baf401563590a7072ca097&oe=606071E7&ig_cache_key=MjQwNTI5MjI3MTE1NDE2MTc0MQ%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120197888_2634140610158969_5484336114769601610_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=btkHLbabcKIAX-lp-pl&se=7&tp=1&oh=c287295a79eee9eae91fd7e0dcdeccfb&oe=605F2347&ig_cache_key=MjQwNTI5MjI3MTE0NTY5NDQ0MA%3D%3D.2"
 
 ---
 lorem

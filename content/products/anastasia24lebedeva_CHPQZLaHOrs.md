@@ -13,8 +13,8 @@ description : "Привет, сегодня предлагаю забыть о �
 30 гр сахар"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Привет, сегодня предлагаю забыть о диете и талии и побаловать себя вкусным пирогом с лимонной меренгой
@@ -82,9 +82,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123970665_1339232859759475_7272765504624200433_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=6sqDJDMtVoQAX-OZfDM&se=7&tp=1&oh=3d2bf32d96025d4dabd39fe480d9235f&oe=605D3F90&ig_cache_key=MjQzNjIzODAxOTQ2Njc2NzM3Mg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123939181_820630121833903_2984452963162090055_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=uQdg4LhA-ZgAX-YLC2z&se=7&tp=1&oh=63d8ddcb93d00b6851f9a6aaa88b389e&oe=605D8BD1&ig_cache_key=MjQzNjIzODAxOTU5MjU4MjYwMg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123654674_778722556017362_465463131797198047_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=0UQUMzzqQCYAX8bjAst&se=7&tp=1&oh=ec5495cd13f37a3531e00e97b1a59b0d&oe=605CFBCA&ig_cache_key=MjQzNjIzODAxOTQ4MzQ1MzY5NA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123970665_1339232859759475_7272765504624200433_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=dEWuwTFrVbEAX-9lSMz&se=7&tp=1&oh=6cdea2ab5b292e99c30eed804e1f15bc&oe=60613410&ig_cache_key=MjQzNjIzODAxOTQ2Njc2NzM3Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123939181_820630121833903_2984452963162090055_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=FNcZaWHC4FMAX-TUT7t&se=7&tp=1&oh=d05dc76cddc1b8ab37aed3d4f08db238&oe=60618051&ig_cache_key=MjQzNjIzODAxOTU5MjU4MjYwMg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123654674_778722556017362_465463131797198047_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=Xhm-f2xL710AX_Eq85B&se=7&tp=1&oh=7589df9341a0e4fe6445e8a53f855b74&oe=6060F04A&ig_cache_key=MjQzNjIzODAxOTQ4MzQ1MzY5NA%3D%3D.2"
 
 ---
 lorem

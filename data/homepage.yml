@@ -94,7 +94,7 @@ products:
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : "Мнения о нас"
   testimonialItem:
     # testimonial item loop
     - name : "Angelo Perara"

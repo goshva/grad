@@ -8,8 +8,8 @@ tags: ["dubrovinanatalia1963"]
 description : "Кукла оберег\"Трындычиха\"_погремушка"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Кукла оберег\"Трындычиха\"_погремушка"
@@ -23,12 +23,12 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/66221403_120045375932241_8715097131478593570_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=8J-ar7cKruIAX89FpwX&se=7&tp=1&oh=772836fb05180a7858dce003908897b0&oe=605A120C&ig_cache_key=MjA4NzM0MDI4ODU1Mzk1Nzg2MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/66243575_2390316264627909_4153535539889093713_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=hNGyvzgODm8AX8vHoRD&se=7&tp=1&oh=65e0ea6ee0c67f6c3922c20a94ccba91&oe=605BE090&ig_cache_key=MjA4NzM0MDI4ODU3OTEyMzc0NA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/65495413_2369011583346951_1439908743683757788_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=teHhUsX0MBYAX-eqX1R&se=7&tp=1&oh=b2a73bd8fb5ee8443e546273de20814d&oe=605CA868&ig_cache_key=MjA4NzM0MDI4ODU2MjI0MTE3Nw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/64306723_923875477950111_7556818632213592999_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=D4J3IXCwU_QAX_Q_Zvz&se=7&tp=1&oh=63f310fbf926ab541b1ae0e70ec32516&oe=605AF050&ig_cache_key=MjA4NzM0MDI4ODU3MDY5NDUyMA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/66235169_347126286186690_3548885145045500958_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=hR0sJOxqxHAAX-NsOLB&se=7&tp=1&oh=40660b8cb71e29cdb18973bf327f0fd9&oe=605D58B4&ig_cache_key=MjA4NzM0MDI4ODU0NTU4NTIyMg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/66049140_868858053475037_8976731725521659044_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=7BVgU7fkH1UAX8Dj6eJ&se=7&tp=1&oh=7d5dae9123613cce70edd298223ac98a&oe=605C0238&ig_cache_key=MjA4NzM0MDI4ODU3MDcwODU0NA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/66221403_120045375932241_8715097131478593570_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=A9XZ3vKIUpYAX-_XGEy&se=7&tp=1&oh=433fb5dad0e38008c0af512d0aab256c&oe=605E068C&ig_cache_key=MjA4NzM0MDI4ODU1Mzk1Nzg2MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/66243575_2390316264627909_4153535539889093713_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=IAAx6dWPg6YAX9ucizJ&se=7&tp=1&oh=e69fbb0a026ae07f62134873171596d9&oe=605FD510&ig_cache_key=MjA4NzM0MDI4ODU3OTEyMzc0NA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/65495413_2369011583346951_1439908743683757788_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=Z3MzhhhDXRcAX_rd3P7&se=7&tp=1&oh=7f6962d400e15e690f4bd44860f7322b&oe=60609CE8&ig_cache_key=MjA4NzM0MDI4ODU2MjI0MTE3Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/64306723_923875477950111_7556818632213592999_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=Q4RaA6SLSe8AX_qUf96&se=7&tp=1&oh=6840eabb853ae6892d2253fb0dd7a7b6&oe=605EE4D0&ig_cache_key=MjA4NzM0MDI4ODU3MDY5NDUyMA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/66235169_347126286186690_3548885145045500958_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=pWif1wFit2wAX_VpYbZ&se=7&tp=1&oh=63d979e61230dbf5959fbddef293d682&oe=60614D34&ig_cache_key=MjA4NzM0MDI4ODU0NTU4NTIyMg%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/66049140_868858053475037_8976731725521659044_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=Q7gRZLS17bkAX8gXGES&se=7&tp=1&oh=d7c60021f577a783d5281093aeccaa1e&oe=605FF6B8&ig_cache_key=MjA4NzM0MDI4ODU3MDcwODU0NA%3D%3D.2"
 
 ---
 lorem

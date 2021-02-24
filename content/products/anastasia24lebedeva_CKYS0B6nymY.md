@@ -11,8 +11,8 @@ description : "Раскроем карты?
 На фото вы видите набор, который станет"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Раскроем карты?
@@ -40,8 +40,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/140942654_469411904448020_5489002438378249646_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=UqVPft1g5WIAX-y8eYK&se=7&tp=1&oh=e24085c6b43983a6bed961474c4462d6&oe=605A9176&ig_cache_key=MjQ5MjgyNTEzMDY0MjUyMTgzMA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/141982142_2794347157490594_3285811157995795777_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=P93Xny3Dm_oAX-FAGnm&se=7&tp=1&oh=8d00790f3ac9cabcda8473ceb704a1ca&oe=605CBA14&ig_cache_key=MjQ5MjgyNTEzMDUxNjY2NTg0Mw%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/140942654_469411904448020_5489002438378249646_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=MPw25BNN3lIAX-PUHYF&se=7&tp=1&oh=a479f423be7f934ff9b8a67ba74d52fb&oe=605E85F6&ig_cache_key=MjQ5MjgyNTEzMDY0MjUyMTgzMA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/141982142_2794347157490594_3285811157995795777_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=3uCk4_xEMu4AX8rArcp&se=7&tp=1&oh=d9328febe29f55ef4b27db51f7f5f0e5&oe=6060AE94&ig_cache_key=MjQ5MjgyNTEzMDUxNjY2NTg0Mw%3D%3D.2"
 
 ---
 lorem

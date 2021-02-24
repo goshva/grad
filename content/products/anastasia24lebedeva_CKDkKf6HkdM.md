@@ -15,8 +15,8 @@ description : "2 часа в 30 секундах....
 Корица, ванилин, имб"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "2 часа в 30 секундах....
@@ -57,8 +57,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139349995_336010100797530_8998337604070502247_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=_1O5e1fsM64AX8VPcVv&se=7&tp=1&oh=cd3189a3b41ab575246fda73892a1610&oe=605B42B0&ig_cache_key=MjQ4Njk5MDQ2Njc2MTgyMDUzMw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139646972_239707904228013_351051289253454850_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=NGjnnEdeuTMAX9fCI9L&se=7&tp=1&oh=06743740343518f24b3594f8c0988b1a&oe=605B6A03&ig_cache_key=MjQ4Njk5MDQ2Njg3OTA2MzgwMg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139349995_336010100797530_8998337604070502247_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=_tU3NASLS7AAX8ro7qN&se=7&tp=1&oh=e78ab1980bc78588d5dff483a457f249&oe=605F3730&ig_cache_key=MjQ4Njk5MDQ2Njc2MTgyMDUzMw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139646972_239707904228013_351051289253454850_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=Qf2PuE2BdWEAX-lu0eB&se=7&tp=1&oh=51408fc2d263e205ec69fa460f9adb43&oe=605F5E83&ig_cache_key=MjQ4Njk5MDQ2Njg3OTA2MzgwMg%3D%3D.2"
 
 ---
 lorem

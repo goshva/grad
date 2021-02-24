@@ -12,8 +12,8 @@ description : "ВДОХНОВЕНИЕ✨🖼️
 Я часто слышу этот вопрос и решила ответить вам сейчас. Ответ прост. ВЕЗДЕ... Я живу"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "ВДОХНОВЕНИЕ✨🖼️
@@ -38,13 +38,13 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119071172_718489898879391_3284005343950297211_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=j-mPz324Nm0AX-c1Ozs&se=7&tp=1&oh=c1c98ee6d3196a4ba28e95f31b09b8d0&oe=605A2196&ig_cache_key=MjM5NjQzMDgzMjAxNjQ2MDEyNg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119234371_2639461729616826_3345030182591681970_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=Fyb5jrgw9QYAX-jne7j&tp=1&oh=79475c71e0980ae2cc442c013d7d4906&oe=605CDFA7&ig_cache_key=MjM5NjQzMDgzMTk2NjE1NzAxNw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119115868_164887128562742_7823709006671081189_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=sHgge02h1oEAX_Ye4tx&tp=1&oh=982771d6fd46442eeaf92581392eca25&oe=605D7D01&ig_cache_key=MjM5NjQzMDgzMTk4Mjg0MjIxMg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/119058951_726666824547377_8571544516065473728_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=ifRsTnMKZXcAX-ZtxCk&tp=1&oh=ffc97f3734dc537d6f295049e5029e2c&oe=605CCE9E&ig_cache_key=MjM5NjQzMDgzMTk5OTY2MDY4Mg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119206062_2800991410226687_2031279513503488657_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=sBWPdLRozG8AX_T9IBI&tp=1&oh=c4f99ad4b9a1e25e665bff33cebcc3d6&oe=605AC9B6&ig_cache_key=MjM5NjQzMDgzMTk4Mjg2NDgwMg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/119135050_318181986158148_3993192061044855000_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=dc7cbjqpz4gAX9nJ4WW&se=7&tp=1&oh=38fb50aa6ed963bfd8cd8294b321b6a2&oe=605CC769&ig_cache_key=MjM5NjQzMDgzMjAwODAwNzAzNQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119069459_3447803198602138_2424665572350727029_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=KN6MUrZBQfEAX96NivP&se=7&tp=1&oh=a1b8ec07a53a9a761fbd60eb54212284&oe=605BAB53&ig_cache_key=MjM5NjQzMDgzMjAyNDc1OTU3OA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119071172_718489898879391_3284005343950297211_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=WCi5aJoiNswAX-vFk1I&se=7&tp=1&oh=916b05957c45da88169964d31cb599fd&oe=605E1616&ig_cache_key=MjM5NjQzMDgzMjAxNjQ2MDEyNg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119234371_2639461729616826_3345030182591681970_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=ia-ylduE88UAX_x5t2H&tp=1&oh=e15e810ba6ba2f8e7e7046656427e56c&oe=6060D427&ig_cache_key=MjM5NjQzMDgzMTk2NjE1NzAxNw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119115868_164887128562742_7823709006671081189_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=s_torKXmbhsAX_l0WnZ&tp=1&oh=4043413a7bded88a5e70c19bf061ca44&oe=60617181&ig_cache_key=MjM5NjQzMDgzMTk4Mjg0MjIxMg%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/119058951_726666824547377_8571544516065473728_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=FHnFte8gJwYAX8oFCcu&tp=1&oh=03c64b68fa46003c4992a05b89592b5e&oe=6060C31E&ig_cache_key=MjM5NjQzMDgzMTk5OTY2MDY4Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119206062_2800991410226687_2031279513503488657_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=TdmJ63x0MBQAX-DUI4G&tp=1&oh=14b74370754d511b2b547bcae49c9fe3&oe=605EBE36&ig_cache_key=MjM5NjQzMDgzMTk4Mjg2NDgwMg%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/119135050_318181986158148_3993192061044855000_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=Uxyokea4eD8AX-y7PiS&se=7&tp=1&oh=d65e7d7bceb20ed8651e0991c9cc358e&oe=6060BBE9&ig_cache_key=MjM5NjQzMDgzMjAwODAwNzAzNQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/119069459_3447803198602138_2424665572350727029_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=KslaECJmgNsAX-oCmtg&se=7&tp=1&oh=ea85bbabb6d7d4bb2cf851ee28bc3153&oe=605F9FD3&ig_cache_key=MjM5NjQzMDgzMjAyNDc1OTU3OA%3D%3D.2"
 
 ---
 lorem

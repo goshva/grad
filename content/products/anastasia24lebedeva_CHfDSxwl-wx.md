@@ -10,8 +10,8 @@ description : "Что для тебя зона комфорта?
 Для меня это мой маленький творческий уголок. Где всё всегда идёт своим чередом. И хотя со стороны может показаться, что там полный"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Что для тебя зона комфорта?
@@ -46,8 +46,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124459941_708659639760829_3815264893534681384_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=qGJtfz4KczkAX-6kxZB&se=7&tp=1&oh=44e08183c2baf6b0163238243d422bb4&oe=605B7404&ig_cache_key=MjQ0MDY4NDAwNDQzMDk4MjA2MA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124686394_804598570273962_3243429749209368632_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=CWqUf7sO4hYAX_20zyS&se=7&tp=1&oh=2d045f3db9e7e0179e654cfd610a9d85&oe=605A0F9F&ig_cache_key=MjQ0MDY4NDAwNDQxNDIyMjI2NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124459941_708659639760829_3815264893534681384_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=Skljp37a0pYAX-U87uy&se=7&tp=1&oh=1519b8dce73a41dc6439e030b9a67c5e&oe=605F6884&ig_cache_key=MjQ0MDY4NDAwNDQzMDk4MjA2MA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124686394_804598570273962_3243429749209368632_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=rLKGImI08v0AX8srmgf&se=7&tp=1&oh=6976c0ec852357e068466a116e9b2a9d&oe=605E041F&ig_cache_key=MjQ0MDY4NDAwNDQxNDIyMjI2NQ%3D%3D.2"
 
 ---
 lorem

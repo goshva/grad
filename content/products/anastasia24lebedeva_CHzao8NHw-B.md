@@ -10,8 +10,8 @@ description : "Ягодный пай. Правда вкусно звучит? О
 Кружка ароматного чая или кофе и кусочек ягодного пирога, который приготовила "
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Ягодный пай. Правда вкусно звучит? Особенно сейчас, когда за окном такая погода.
@@ -68,8 +68,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126097964_192298539115891_6022274540172132099_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=shzd3dcx6uMAX__FxS0&se=7&tp=1&oh=88704a1363b077d16b44900158064170&oe=605A7B43&ig_cache_key=MjQ0NjQxNjE4MTc0NDA4NjU3Nw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126056274_1326976184301957_6107368159954562420_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=saoEScCL2tMAX-2Tv5i&se=7&tp=1&oh=94dbae67c81779c75077c748206ca32d&oe=605A302F&ig_cache_key=MjQ0NjQxNjE4MTc1MjQzMjc0Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126097964_192298539115891_6022274540172132099_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=ZSe2iUXYdS0AX9tvOWS&se=7&tp=1&oh=a5633ec192b64e5ebcb50c3c3bd3e5eb&oe=605E6FC3&ig_cache_key=MjQ0NjQxNjE4MTc0NDA4NjU3Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126056274_1326976184301957_6107368159954562420_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ViLd45LmA3oAX9-CbnI&se=7&tp=1&oh=879220f372a7fb6a7a3261ef8eda5507&oe=605E24AF&ig_cache_key=MjQ0NjQxNjE4MTc1MjQzMjc0Mg%3D%3D.2"
 
 ---
 lorem

@@ -10,8 +10,8 @@ description : "Побалуем друг друга панкейками?
 Интересное слово, которое обозначает небольшой, пышный блинчик. Панкейки //- национальное блюдо Северной Америки, но ставшее по"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Побалуем друг друга панкейками?
@@ -57,8 +57,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123133433_1113820182354268_190268916387275995_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=H_3OocpWtCMAX-TuGHO&se=7&tp=1&oh=60eb821c455af8c110cdb1179d8f73e0&oe=605D9ED5&ig_cache_key=MjQyOTcxMDI1NzEzNDI3MTI0OA%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/122964120_348832599731216_2937366910223384789_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=-Sd-Fva0QgsAX86zEQB&se=7&tp=1&oh=cb210cb4ecfc462ee40b227b2371d2ad&oe=605BEB1B&ig_cache_key=MjQyOTcxMDI1NzI1MTc5MTExMQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123133433_1113820182354268_190268916387275995_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=ebRZDVBROgIAX9_4vz4&se=7&tp=1&oh=80d3aba9e56569f1840a5e03a3bf5dc9&oe=60619355&ig_cache_key=MjQyOTcxMDI1NzEzNDI3MTI0OA%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/122964120_348832599731216_2937366910223384789_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=HhjfzJUNWmkAX9UZvZG&se=7&tp=1&oh=a3a7ec7737c174e06b3f5bf729505db8&oe=605FDF9B&ig_cache_key=MjQyOTcxMDI1NzI1MTc5MTExMQ%3D%3D.2"
 
 ---
 lorem

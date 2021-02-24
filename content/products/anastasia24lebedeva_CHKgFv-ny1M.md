@@ -12,8 +12,8 @@ description : "Начинаю отсчёт до нового года!
 Хочу начать с розыгрыша вот такого новогоднего бо"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Начинаю отсчёт до нового года!
@@ -59,8 +59,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123413449_398463078006611_3881750369361548654_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=HYOyvCY5Y74AX8KBgaQ&se=7&tp=1&oh=26804277938c087caf18c3f37946918b&oe=605A7707&ig_cache_key=MjQzNDg5OTY3ODQwNjIwODAxOQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123776750_817269265763146_1445276629101206495_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=9mJlT-wloIgAX-8O-M5&se=7&tp=1&oh=d331ab9e3e74e0893e47bcdb4fc161c4&oe=605B434D&ig_cache_key=MjQzNDg5OTY3ODM5Nzk2OTcyOA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123413449_398463078006611_3881750369361548654_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=E0SgM5rIorAAX8BLofh&se=7&tp=1&oh=37e3da9f9748492f70d6502a891e8a1d&oe=605E6B87&ig_cache_key=MjQzNDg5OTY3ODQwNjIwODAxOQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/123776750_817269265763146_1445276629101206495_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=Rl259a9THF0AX_hxCz2&se=7&tp=1&oh=1f44d1589fccc2592e44745c836ea426&oe=605F37CD&ig_cache_key=MjQzNDg5OTY3ODM5Nzk2OTcyOA%3D%3D.2"
 
 ---
 lorem

@@ -12,8 +12,8 @@ description : "Любовь С первого взгляда.
 Может у вас есть любимая игрушка, мимо которой"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Любовь С первого взгляда.
@@ -52,8 +52,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126250397_387108552532960_1191322569731502276_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=mabd2VpQwTwAX8MVEPw&se=7&tp=1&oh=a90e8ab03e3f64aa8f25189ab50d8ca6&oe=605A5FF3&ig_cache_key=MjQ0NzE0NDMwMjEyMjI4NjA5MA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126204660_378225383269843_6623562545203163882_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=6_yrIQJlwEsAX9bXnZ-&tp=1&oh=88e80e3e80f36b83ecf6dd6a6d34a07c&oe=605B1992&ig_cache_key=MjQ0NzE0NDMwMjEzOTAyNjU4NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126250397_387108552532960_1191322569731502276_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=OiVtNQFFZlgAX8rdwDD&se=7&tp=1&oh=68fc7f4bdd66a68c49a590a80407ac6f&oe=605E5473&ig_cache_key=MjQ0NzE0NDMwMjEyMjI4NjA5MA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126204660_378225383269843_6623562545203163882_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Z7IKjsrth_IAX_m7Vv7&tp=1&oh=6be19f2cb4c94788850418ad8bda07cc&oe=605F0E12&ig_cache_key=MjQ0NzE0NDMwMjEzOTAyNjU4NQ%3D%3D.2"
 
 ---
 lorem

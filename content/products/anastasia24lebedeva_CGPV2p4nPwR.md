@@ -13,8 +13,8 @@ description : "#Когда не знаешь какое фото выбрать,
 Сегодняшняя тема поста. #вп"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "#Когда не знаешь какое фото выбрать, выбери все.
@@ -42,9 +42,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121512054_387395779094750_4782771429801016045_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=7UWHa_-_21QAX-11lKd&se=7&tp=1&oh=04b90c06c2ad1dc4276664562f1e5f98&oe=605A8297&ig_cache_key=MjQxODI0NzYzNDczMTcyODQ2MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121215872_2009863885817815_7696711106480744465_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=PplhuvRb24oAX9xyPXV&se=7&tp=1&oh=974420ce2d92dfe4c184aff6aea2bdb1&oe=605D9A2D&ig_cache_key=MjQxODI0NzYzNDcyMzMxODg0MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121178003_350112406049063_2348108573537705321_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=r0Te0mK7W74AX9Wpd8P&se=7&tp=1&oh=6f522c28421a6363dfdeade924390d5f&oe=605AA181&ig_cache_key=MjQxODI0NzYzNDcxNTEwMDczNQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121512054_387395779094750_4782771429801016045_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=ORnwU30kC3IAX_S3GwY&se=7&tp=1&oh=64a48846ca102b228af9d34e3ff0dc16&oe=605E7717&ig_cache_key=MjQxODI0NzYzNDczMTcyODQ2MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121215872_2009863885817815_7696711106480744465_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Tbc3CwK7hJYAX-BzSCc&se=7&tp=1&oh=9fd373bd0b44c98901a20bda01ca4f94&oe=60618EAD&ig_cache_key=MjQxODI0NzYzNDcyMzMxODg0MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121178003_350112406049063_2348108573537705321_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=0-XfKBpSw3kAX82TB3d&se=7&tp=1&oh=f51200ca08b0ef14fe6ade0d2308049d&oe=605E9601&ig_cache_key=MjQxODI0NzYzNDcxNTEwMDczNQ%3D%3D.2"
 
 ---
 lorem

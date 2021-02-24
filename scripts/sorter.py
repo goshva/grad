@@ -5,6 +5,7 @@ import re
 from datetime import datetime
 
 def add2text (name,date,sortcode,title,discription,price,images):
+    priceBefore = str(1.2*float(price))
     text = '''---
 title: "'''+title+'''"
 date: '''+date+'''
@@ -16,7 +17,7 @@ description : "'''+discription[:160]+'''"
 
 # product Price
 price: "'''+price+'''"
-priceBefore: "25.00"
+priceBefore: "'''+priceBefore+'''"
 
 # Product Short Description
 shortDescription: "'''+discription+'''"
@@ -38,7 +39,6 @@ lorem
 
 destUrl = "/home/goshva/hugo-sites/grad/content/products/"
 char = "₽"
-
 name = sys.argv[1]
 # Opening JSON file 
 f = open(name+'/'+name+'.json',) 
@@ -78,8 +78,9 @@ for i in data['GraphImages']:
 
     if "₽" in fulldiscription:
         pricewhithcur =re.findall(r"\d+" + char , fulldiscription)[0]
-        price = pricewhithcur[0:-1] 
-
+        price = pricewhithcur[0:-1]
+    else:
+        price = "3000"
 
     for image in images:
         imageStr = '''  - image: "'''+image+'''"\n'''
@@ -91,7 +92,6 @@ for i in data['GraphImages']:
 
 
     if imagesList and len(images) > 1:
-        print(destUrl+name+"_"+i["shortcode"]+".md")
         f = open(destUrl+name+"_"+i["shortcode"]+".md", "w")
         f.write(add2text(name,date,shortcode,title,fulldiscription,price,imagesList))
         f.close()

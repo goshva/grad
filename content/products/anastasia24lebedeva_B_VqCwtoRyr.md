@@ -10,8 +10,8 @@ description : "🎀Первая игрушка🎀
 Это как раз "
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "🎀Первая игрушка🎀
@@ -28,8 +28,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94222136_630326024190306_232086354706181437_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=6QSUphe2TY4AX9e9FSS&se=7&tp=1&oh=5e002284acb5208a79ef1baabd22f455&oe=605AEB40&ig_cache_key=MjI5MzkyNDQ4MjMxNzk4NTEwMg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94418074_226075358808640_1151066522297466497_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=Gp67Ab1HB1cAX-l0u7i&se=7&tp=1&oh=366505860193b1d3d0c0107ec2f2d7bf&oe=605D08E3&ig_cache_key=MjI5MzkyNDQ4MjMwMTI2MTk0Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94222136_630326024190306_232086354706181437_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=tET3MMGnJEYAX-9pL5v&se=7&tp=1&oh=02ed25176222bc19f4b00296cab2f0ae&oe=605EDFC0&ig_cache_key=MjI5MzkyNDQ4MjMxNzk4NTEwMg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94418074_226075358808640_1151066522297466497_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=waIxmUYIEWUAX-1ZMQC&se=7&tp=1&oh=6d426d562a96dac0829be64980335760&oe=6060FD63&ig_cache_key=MjI5MzkyNDQ4MjMwMTI2MTk0Nw%3D%3D.2"
 
 ---
 lorem

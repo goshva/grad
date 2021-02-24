@@ -14,8 +14,8 @@ description : "Вкусный пост от меня😁
 И"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3000"
+priceBefore: "3600.0"
 
 # Product Short Description
 shortDescription: "Вкусный пост от меня😁
@@ -64,8 +64,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121574851_639816766694029_7543067772959194600_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=a42TNfH-qzoAX-NgB4H&se=7&tp=1&oh=434a91a3b260bf68fca046781dfde4f5&oe=6059E13E&ig_cache_key=MjQxOTY5NTcyMTY1MjMwODM3OA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121403133_1165900317138330_6043247554459489110_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=TBqOjzO6iaoAX9Vjckw&se=7&tp=1&oh=51dfc3527a5b50a26f0b1b9827f627d0&oe=605D573E&ig_cache_key=MjQxOTY5NTcyMTY0Mzk3NTA0Mw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121574851_639816766694029_7543067772959194600_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=8qmi_CA4tYEAX-DHTbN&se=7&tp=1&oh=37f61d1c705204dd01a95c5371e53dba&oe=605DD5BE&ig_cache_key=MjQxOTY5NTcyMTY1MjMwODM3OA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/121403133_1165900317138330_6043247554459489110_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=MZ7QVgeS7GUAX_8rGLW&se=7&tp=1&oh=eef3da9aad236c0e04a0da5a5c481e4c&oe=60614BBE&ig_cache_key=MjQxOTY5NTcyMTY0Mzk3NTA0Mw%3D%3D.2"
 
 ---
 lorem
