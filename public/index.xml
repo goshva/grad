@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hargo | Hugo Ecommerce Site</title>
+    <title>Град Мастеров | Фестивали и Ярмарки на КМВ и online</title>
     <link>https://grad-masterov.ru/</link>
-    <description>Recent content on Hargo | Hugo Ecommerce Site</description>
+    <description>Recent content on Град Мастеров | Фестивали и Ярмарки на КМВ и online</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ru</language>
     <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://grad-masterov.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Арт</title>
@@ -5198,6 +5198,24 @@
       
       <guid>https://grad-masterov.ru/products/anastasia24lebedeva_bj7vliwn9pa/</guid>
       <description>lorem</description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>https://grad-masterov.ru/blog/about/</link>
+      <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
+      
+      <guid>https://grad-masterov.ru/blog/about/</guid>
+      <description>Алла Александровна Павленко — основатель и руководитель Art-Fest «Град-Мастеров», директор по развитию НКО «Фонд развития курортов и поддержки гражданских инициатив», выпускница ПГЛУ (ныне ПГУ), в 2004 году окончила факультет Высшая школа словесности, европейских и восточных языков.</description>
+    </item>
+    
+    <item>
+      <title>Пятегорская епархия</title>
+      <link>https://grad-masterov.ru/blog/partners/</link>
+      <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
+      
+      <guid>https://grad-masterov.ru/blog/partners/</guid>
+      <description>Современная история Пятигорской епархии Русской Православной Церкви началась относительно недавно. В марте 2011 года Священным Синодом принято решение об образовании Пятигорской и Черкесской епархии.</description>
     </item>
     
     <item>

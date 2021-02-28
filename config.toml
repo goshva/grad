@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://grad-masterov.ru"
-languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+languageCode = "ru"
+title = "Град Мастеров | Фестивали и Ярмарки на КМВ и online"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
