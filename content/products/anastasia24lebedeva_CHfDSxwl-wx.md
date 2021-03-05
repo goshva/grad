@@ -1,5 +1,5 @@
 ---
-title: "Что"
+title: "Что для тебя"
 date: 2020-11-12
 draft: false
 tags: ["anastasia24lebedeva"]
@@ -46,8 +46,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124459941_708659639760829_3815264893534681384_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=Skljp37a0pYAX-U87uy&se=7&tp=1&oh=1519b8dce73a41dc6439e030b9a67c5e&oe=605F6884&ig_cache_key=MjQ0MDY4NDAwNDQzMDk4MjA2MA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124686394_804598570273962_3243429749209368632_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=rLKGImI08v0AX8srmgf&se=7&tp=1&oh=6976c0ec852357e068466a116e9b2a9d&oe=605E041F&ig_cache_key=MjQ0MDY4NDAwNDQxNDIyMjI2NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124459941_708659639760829_3815264893534681384_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=uWRCxIRk4c4AX97Absw&oh=bcbe58a790a30a38a67de631c01aed06&oe=606B4604&ig_cache_key=MjQ0MDY4NDAwNDQzMDk4MjA2MA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/124686394_804598570273962_3243429749209368632_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=mLWZwCXXCdAAX-CjLiM&oh=1d1d6e6b9a28f012929ef33832eb9e41&oe=6069E19F&ig_cache_key=MjQ0MDY4NDAwNDQxNDIyMjI2NQ%3D%3D.2"
 
 ---
 lorem

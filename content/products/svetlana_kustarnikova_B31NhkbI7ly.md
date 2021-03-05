@@ -1,5 +1,5 @@
 ---
-title: "Арт"
+title: "Арт 944 Колье"
 date: 2019-10-20
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,9 +23,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/72549396_1345073945670340_1038887230749752938_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=grQOOMN93jEAX_9jIGX&se=7&tp=1&oh=7bfd0d1e8f8ed7d764baf5e9e9cf802c&oe=60613A5E&ig_cache_key=MjE1ODY5MTA2OTM3MDM2NTU0NA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/73229621_502182200511559_4745781837418748353_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=wWqBLBOb_csAX_ZZgBO&se=8&tp=1&oh=ab719b7d04e44aaac522a7f07eacd034&oe=605DAD62&ig_cache_key=MjE1ODY5MTA2OTM3ODgyMzc1NA%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/73446494_516077859211728_4473540906816377528_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=Za2oz9qQG1gAX8_HSA8&se=7&tp=1&oh=7a0c7aa047543c4784aeae9b5f704320&oe=605DC632&ig_cache_key=MjE1ODY5MTA2OTM2MTk4MjI3Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/72549396_1345073945670340_1038887230749752938_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=DNEoQaCBWHAAX_Ic4Yy&oh=6afc53eda40d80018e5d035c00ae81cd&oe=606D17DE&ig_cache_key=MjE1ODY5MTA2OTM3MDM2NTU0NA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/73229621_502182200511559_4745781837418748353_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=qFe6CLu2PHoAX9EcnSw&oh=2b9aefd03c7cc7e321ec42e170a151f4&oe=60698AE2&ig_cache_key=MjE1ODY5MTA2OTM3ODgyMzc1NA%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/73446494_516077859211728_4473540906816377528_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=k5oYCxPoFUgAX-Yk1g7&oh=0243d66b5efa7ad941542eb794a516c0&oe=6069A3B2&ig_cache_key=MjE1ODY5MTA2OTM2MTk4MjI3Mg%3D%3D.2"
 
 ---
 lorem

@@ -1,5 +1,5 @@
 ---
-title: "Арт"
+title: "Арт 867 Браслет"
 date: 2019-07-16
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/66276613_424165088231266_2984092650773641961_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=DTZXlvfEALsAX8B7r5e&tp=1&oh=00db72b09f0370afd2b802560a930d52&oe=606129AA&ig_cache_key=MjA4OTMwMzA0NTk5NDM4MzQzMQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/66110214_1461462614010863_683469898835007700_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=x-Ps7z3M5_sAX_4i9Qq&tp=1&oh=6221de84791de185ab1e74e67bb7310e&oe=605F6BB3&ig_cache_key=MjA4OTMwMzA0NTk3NzQyNzcyMg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/66276613_424165088231266_2984092650773641961_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=aPc3XJF6SLgAX_Rc3CK&oh=a7eb94556f6e5ce7ac95d20e8f71e347&oe=606D072A&ig_cache_key=MjA4OTMwMzA0NTk5NDM4MzQzMQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/66110214_1461462614010863_683469898835007700_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=YH2CXaNv6eEAX8BSY03&oh=c34c4de067ac10f8824c1d2089367434&oe=606B4933&ig_cache_key=MjA4OTMwMzA0NTk3NzQyNzcyMg%3D%3D.2"
 
 ---
 lorem

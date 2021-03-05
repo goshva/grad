@@ -1,5 +1,5 @@
 ---
-title: "Об"
+title: "Об инструментах."
 date: 2020-09-24
 draft: false
 tags: ["anastasia24lebedeva"]
@@ -51,8 +51,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120036020_331367321424130_1854004756711870818_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=VRGfVXURQ2EAX_4dOjv&se=8&tp=1&oh=cd560e31a7baf401563590a7072ca097&oe=606071E7&ig_cache_key=MjQwNTI5MjI3MTE1NDE2MTc0MQ%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120197888_2634140610158969_5484336114769601610_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=btkHLbabcKIAX-lp-pl&se=7&tp=1&oh=c287295a79eee9eae91fd7e0dcdeccfb&oe=605F2347&ig_cache_key=MjQwNTI5MjI3MTE0NTY5NDQ0MA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120036020_331367321424130_1854004756711870818_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=rgkKnpDJalgAX9WcESm&oh=f6edd17e904cf4839fd162c5cc27ab98&oe=606C4F67&ig_cache_key=MjQwNTI5MjI3MTE1NDE2MTc0MQ%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120197888_2634140610158969_5484336114769601610_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=uJmeVsE_YLsAX9lexqf&oh=47f27352a3a7aa8408c0fe5a717e8ea1&oe=606B00C7&ig_cache_key=MjQwNTI5MjI3MTE0NTY5NDQ0MA%3D%3D.2"
 
 ---
 lorem

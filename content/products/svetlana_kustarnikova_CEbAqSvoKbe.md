@@ -1,5 +1,5 @@
 ---
-title: "Арт"
+title: "Арт 1114"
 date: 2020-08-28
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,9 +23,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/118530701_163197022076916_1065809919724196915_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=27-5v2gZ2A4AX9V0nzz&se=7&tp=1&oh=8cd70d16c8d02c48b349ec9bdb1e9948&oe=60608B89&ig_cache_key=MjM4NTUwMzMyNzQ0OTUwNTEzOQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/118465675_301075744456571_8589960574939444675_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=gQEjVYWt3WMAX-hRhX4&se=7&tp=1&oh=3970a1061a09407654a15d086447d0c4&oe=605F7205&ig_cache_key=MjM4NTUwMzMyNzQ4MjgzODMyNw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/118322314_343164600045589_1594463225543495019_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=PFMRep2B-4YAX8BM7-w&se=8&tp=1&oh=201aa39e14291f05b27db6b0e2fc8639&oe=605E9F73&ig_cache_key=MjM4NTUwMzMyNzQ2NjA0NjUzNA%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/118530701_163197022076916_1065809919724196915_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=7DAd5ItzSJ4AX_rKmmN&oh=32cd7830fc0c6ea4f3ee55a766c3031a&oe=606C6909&ig_cache_key=MjM4NTUwMzMyNzQ0OTUwNTEzOQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/118465675_301075744456571_8589960574939444675_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=VnEeRkGZ9foAX8ZA_Sf&oh=9baae107226e0b8cdfee154d94d42e6a&oe=606B4F85&ig_cache_key=MjM4NTUwMzMyNzQ4MjgzODMyNw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/118322314_343164600045589_1594463225543495019_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=SBvwb8sfjrgAX91YRhn&oh=e8fb3a8a2b3597e2038d305b82599e6d&oe=606A7CF3&ig_cache_key=MjM4NTUwMzMyNzQ2NjA0NjUzNA%3D%3D.2"
 
 ---
 lorem

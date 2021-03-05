@@ -1,5 +1,5 @@
 ---
-title: "Комплект"
+title: "Комплект из не"
 date: 2021-02-16
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -27,8 +27,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/150675895_1124209458022929_5015789726952174411_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=x9YAgH2ECMYAX_0guPm&se=7&tp=1&oh=87771e83c53f30be3770efec738858f1&oe=6060167E&ig_cache_key=MjUxMDI0Nzg2MTIzNTI0MjQ3OA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/150092880_427444201813366_5063163705679211189_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=DyTj62OV3GYAX--d8bE&se=7&tp=1&oh=da45642c870f5bf3f3ed6dbac95bfd1c&oe=605F1C50&ig_cache_key=MjUxMDI0Nzg2MTI1MjAzNDc0Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/150675895_1124209458022929_5015789726952174411_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=w4_ZJ5FlZ20AX9OVIuA&oh=6e3a02604f616164a1d0a735576573ee&oe=606BF3FE&ig_cache_key=MjUxMDI0Nzg2MTIzNTI0MjQ3OA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/150092880_427444201813366_5063163705679211189_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=iuvPjF7ZkxQAX-yZDAn&oh=bf7c12592f103e3dcb032d50dce21d27&oe=606AF9D0&ig_cache_key=MjUxMDI0Nzg2MTI1MjAzNDc0Nw%3D%3D.2"
 
 ---
 lorem

@@ -1,5 +1,5 @@
 ---
-title: "Арт"
+title: "Арт 1173."
 date: 2021-01-17
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139920707_128498599104448_9066280209587066018_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=9XDqZZbR3YMAX_lyF9A&se=7&tp=1&oh=124f288d2c9a67d21cffe93abf33e635&oe=605FEEAE&ig_cache_key=MjQ4ODYzNzI5OTMzNDM5OTkxNQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139262474_458188005184654_6436902471956194595_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=KcKncNKRHPkAX8yRp7Q&se=8&tp=1&oh=9817417a5a4e99713d6e24ba70da769b&oe=60615F86&ig_cache_key=MjQ4ODYzNzI5OTQ1MTg5MzgyNg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139920707_128498599104448_9066280209587066018_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=a4ng1VvGrB8AX_gVM-t&oh=0182d309500b8383f0f082e410eb5084&oe=606BCC2E&ig_cache_key=MjQ4ODYzNzI5OTMzNDM5OTkxNQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/139262474_458188005184654_6436902471956194595_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=ADiYqMloJdMAX9Wt8E_&oh=3c6837c0c62d87caef18d4f9c348f287&oe=606D3D06&ig_cache_key=MjQ4ODYzNzI5OTQ1MTg5MzgyNg%3D%3D.2"
 
 ---
 lorem

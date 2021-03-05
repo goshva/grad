@@ -1,5 +1,5 @@
 ---
-title: "Игровая"
+title: "Игровая кукла"
 date: 2020-05-14
 draft: false
 tags: ["dubrovinanatalia1963"]
@@ -23,9 +23,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/96688446_1397165737133839_8531635498279046763_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=ghnD8TV9Kk4AX9GWmLJ&se=7&tp=1&oh=2e2dab8a585a717da58961b5e2f598c6&oe=605ECEB6&ig_cache_key=MjMwOTExMzMyNjk3NzUxNDE1OA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/96574630_2903126306401271_3773672782221815348_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=MaHyF1CROLkAX8hTcll&se=7&tp=1&oh=f10a75c730c97ee676e1592a35dccac3&oe=605DC549&ig_cache_key=MjMwOTExMzMyNjk5NDM1MTk4Mw%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/97030259_2507672296212572_8691365575100849123_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=ngEpMK-Svu4AX9G0ZN8&se=7&tp=1&oh=3d66e5fc4d5136b7f980ea6b5d123a24&oe=60612B96&ig_cache_key=MjMwOTExMzMyNzAwMjY0NTcyNw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/96688446_1397165737133839_8531635498279046763_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=r7iPyUpXg5kAX9ECOJJ&oh=1fab6cd56c5c09a69eabbe2dd88873f8&oe=606AAC36&ig_cache_key=MjMwOTExMzMyNjk3NzUxNDE1OA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/96574630_2903126306401271_3773672782221815348_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=yLvYxMh5ZywAX-2N4dM&oh=c6051df9cb6fe800bbf551100e5a2569&oe=6069A2C9&ig_cache_key=MjMwOTExMzMyNjk5NDM1MTk4Mw%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/97030259_2507672296212572_8691365575100849123_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=1fv8fkNzLxoAX-jgSQD&oh=3adbb132906c587de2c8a26027c55ef6&oe=606D0916&ig_cache_key=MjMwOTExMzMyNzAwMjY0NTcyNw%3D%3D.2"
 
 ---
 lorem

@@ -1,5 +1,5 @@
 ---
-title: "Ягодный"
+title: "Ягодный пай."
 date: 2020-11-20
 draft: false
 tags: ["anastasia24lebedeva"]
@@ -68,8 +68,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126097964_192298539115891_6022274540172132099_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=ZSe2iUXYdS0AX9tvOWS&se=7&tp=1&oh=a5633ec192b64e5ebcb50c3c3bd3e5eb&oe=605E6FC3&ig_cache_key=MjQ0NjQxNjE4MTc0NDA4NjU3Nw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126056274_1326976184301957_6107368159954562420_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ViLd45LmA3oAX9-CbnI&se=7&tp=1&oh=879220f372a7fb6a7a3261ef8eda5507&oe=605E24AF&ig_cache_key=MjQ0NjQxNjE4MTc1MjQzMjc0Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126097964_192298539115891_6022274540172132099_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=OS3IQKdXF3kAX-I9gyB&oh=a9f3a582c8c3b93b7f9abce5d1cc1253&oe=606A4D43&ig_cache_key=MjQ0NjQxNjE4MTc0NDA4NjU3Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126056274_1326976184301957_6107368159954562420_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ofInw_Y6JSIAX9k316s&oh=013e3bb729b5ad38db2bb239b5d6157c&oe=606A022F&ig_cache_key=MjQ0NjQxNjE4MTc1MjQzMjc0Mg%3D%3D.2"
 
 ---
 lorem

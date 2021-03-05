@@ -1,5 +1,5 @@
 ---
-title: "Арт"
+title: "Арт 995 Браслет"
 date: 2019-12-17
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,9 +23,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/78858162_853881235028764_72415219771430798_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=rmO783iyi7wAX8ElJJ_&se=7&tp=1&oh=c283685bdc85914385836a121559ba9d&oe=605FE1C9&ig_cache_key=MjIwMDk2NzAyMzU1MTM3OTU1Nw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/79686279_109665697059786_5531217867865269190_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=UAqgYd5Yy5cAX8YVtJb&se=7&tp=1&oh=8f755a9006d64368ae1254af8a08698d&oe=605EC99A&ig_cache_key=MjIwMDk2NzAyMzUzNDc5NjIwOQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/77240234_809714159488934_3731839428568581290_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=0QuXr6kdnuYAX83-W7R&se=8&tp=1&oh=1a1f7f02e21cc2d096d078a9c979638b&oe=605F30AF&ig_cache_key=MjIwMDk2NzAyMzU0MzE4NzM4Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/78858162_853881235028764_72415219771430798_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=ror_A7rnyHwAX-Ja7ur&oh=b26ef263f0a19cb62e3593237174e41e&oe=606BBF49&ig_cache_key=MjIwMDk2NzAyMzU1MTM3OTU1Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/79686279_109665697059786_5531217867865269190_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=3FTwp2pU_P8AX96w7-p&oh=f67d59ce63d8115248f249a5fa06bc19&oe=606AA71A&ig_cache_key=MjIwMDk2NzAyMzUzNDc5NjIwOQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/77240234_809714159488934_3731839428568581290_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=lgTIUcZbQCgAX-WuNjn&oh=6f1a4a219be8726557f34e75bff2ed5f&oe=606B0E2F&ig_cache_key=MjIwMDk2NzAyMzU0MzE4NzM4Nw%3D%3D.2"
 
 ---
 lorem

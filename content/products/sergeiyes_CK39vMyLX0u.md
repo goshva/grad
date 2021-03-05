@@ -1,5 +1,5 @@
 ---
-title: "."
+title: ". .Отзыв"
 date: 2021-02-04
 draft: false
 tags: ["sergeiyes"]
@@ -43,8 +43,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/145507361_438289610647947_2885154864173560725_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=iHl5PFtuzJgAX8gjAsF&se=8&tp=1&oh=481cd3d927e3b9df628b5341451548d1&oe=605E82D1&ig_cache_key=MjUwMTczOTY0NzA1NDE2MzkwOA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/145476148_345194523206769_2093369992807668351_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=QJSDBMHJR2gAX-nwgV_&se=7&tp=1&oh=4850b6dd2603df508b74d49d23818e10&oe=605DFE8E&ig_cache_key=MjUwMTczOTY0NzA3MTAxNjIwOQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/145507361_438289610647947_2885154864173560725_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=NW-YEcN_T7AAX---qNP&oh=6803851cffe113bfcfcdde9bcdd869c5&oe=606A6051&ig_cache_key=MjUwMTczOTY0NzA1NDE2MzkwOA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/145476148_345194523206769_2093369992807668351_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=DbCrTkgWjsQAX-mSXjx&oh=88d2ab5bbbd2329849b9fa511cf3b3d1&oe=6069DC0E&ig_cache_key=MjUwMTczOTY0NzA3MTAxNjIwOQ%3D%3D.2"
 
 ---
 lorem

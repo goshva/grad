@@ -1,5 +1,5 @@
 ---
-title: "."
+title: ". .ПОБЕДА..."
 date: 2020-05-19
 draft: false
 tags: ["sergeiyes"]
@@ -49,8 +49,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/98116461_678730656310671_5409048820813861298_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=mGFl0lc4xHMAX9_o8R1&se=8&tp=1&oh=6bef361a0c835b036cb8d9461baa4888&oe=606033A6&ig_cache_key=MjMxMjI4NDY1ODUxODcwMTkzNA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/97312945_864267560746375_5039796433562262177_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=m1_pxmr6fqoAX9zlZdE&se=8&tp=1&oh=1fb6006eeeb5b05d6d4780cdd73d3197&oe=605EDA1E&ig_cache_key=MjMxMjI4NDY1ODUxMDExMTE5Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/98116461_678730656310671_5409048820813861298_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=SDI2AH2TSt8AX9Ah86w&oh=56e18b951287c1ace5c2ccc1c9a6515f&oe=606C1126&ig_cache_key=MjMxMjI4NDY1ODUxODcwMTkzNA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/97312945_864267560746375_5039796433562262177_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=KGqBXyXLv9YAX--vmFj&oh=d4208b1cbf7be27aefdac0db503c1924&oe=606AB79E&ig_cache_key=MjMxMjI4NDY1ODUxMDExMTE5Mg%3D%3D.2"
 
 ---
 lorem

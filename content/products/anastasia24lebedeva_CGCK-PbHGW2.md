@@ -1,5 +1,5 @@
 ---
-title: "Как"
+title: "Как сделать"
 date: 2020-10-07
 draft: false
 tags: ["anastasia24lebedeva"]
@@ -84,8 +84,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120815962_2694640034094042_5772543777271435372_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=Tqyqki7u4OIAX_9au6n&se=7&tp=1&oh=44c73887094a9ffbd50eaf76ab520b08&oe=605DE0F4&ig_cache_key=MjQxNDU0MDYwMzMzNjM1OTg3Mg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120844284_2404193229889736_6537619353250704172_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=nhUk5o1zGjwAX8liDld&se=7&tp=1&oh=7dc6783b8daa1ad9990cf056be63afba&oe=605EF9C6&ig_cache_key=MjQxNDU0MDYwMzM0NDU5MzgxNg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/120815962_2694640034094042_5772543777271435372_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=dv-r08ppL_kAX8o0IYy&oh=a867e8ce19b113362c16988388685a81&oe=6069BE74&ig_cache_key=MjQxNDU0MDYwMzMzNjM1OTg3Mg%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/120844284_2404193229889736_6537619353250704172_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=LvaJkCIJJwoAX8Z5QZz&oh=24ed03456e24420e08536c313c1e3a0e&oe=606AD746&ig_cache_key=MjQxNDU0MDYwMzM0NDU5MzgxNg%3D%3D.2"
 
 ---
 lorem

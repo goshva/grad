@@ -1,5 +1,5 @@
 ---
-title: "Арт"
+title: "Арт 999 Чокер"
 date: 2020-03-01
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/88207448_631651860923218_912106911243048564_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=6E-OFjiy_O4AX8-oJOg&se=7&tp=1&oh=6a7b25e634a2475a03886d883f1c3a60&oe=605FA10B&ig_cache_key=MjI1NTQwMTI0MTU1MTI2MzY5NA%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/88203700_211856329960772_3390164556875241046_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=5B2XY4D_zXcAX_jWijb&se=7&tp=1&oh=5d90ac74495c630d85653dd12e76fe9f&oe=60614432&ig_cache_key=MjI1NTQwMTI0MTU2Nzk0MDE2Mw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/88207448_631651860923218_912106911243048564_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=JV8-rGskY98AX_oBuyq&oh=b2ba79fd146f2b47772be335bd84a642&oe=606B7E8B&ig_cache_key=MjI1NTQwMTI0MTU1MTI2MzY5NA%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/88203700_211856329960772_3390164556875241046_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=Gw9TWeegHooAX8DKe3r&oh=dd3b5fa6f9f4d230e622e0e4fd7eb957&oe=606D21B2&ig_cache_key=MjI1NTQwMTI0MTU2Nzk0MDE2Mw%3D%3D.2"
 
 ---
 lorem

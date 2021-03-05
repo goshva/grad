@@ -1,5 +1,5 @@
 ---
-title: "Кукла"
+title: "Кукла первоклассница,сделана"
 date: 2020-07-31
 draft: false
 tags: ["dubrovinanatalia1963"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116428172_324229028609773_2765116036945232762_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=xNh5Yaq6QiEAX9zLPh5&se=7&tp=1&oh=e2a4923eca67c801d14fb532a28e530c&oe=6061695C&ig_cache_key=MjM2NTYyMjUwNTE0MTIwNjIwNQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116128415_661957307747318_7046022835528126598_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=b-cZxorpltAAX-F99bk&se=7&tp=1&oh=f16f0d1a43aa88f300f52d3de7704f28&oe=605F4172&ig_cache_key=MjM2NTYyMjUwNTEyNDQ0Nzk3NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116428172_324229028609773_2765116036945232762_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ZQCc7P9jJw0AX8A77Fn&oh=8d7fb844bfc8b3912a1df49c2cbde60b&oe=606D46DC&ig_cache_key=MjM2NTYyMjUwNTE0MTIwNjIwNQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/116128415_661957307747318_7046022835528126598_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=amycsv3pCi4AX8-p1RQ&oh=cd3a0bf0b54fd2737f9cfcf4c465a258&oe=606B1EF2&ig_cache_key=MjM2NTYyMjUwNTEyNDQ0Nzk3NQ%3D%3D.2"
 
 ---
 lorem

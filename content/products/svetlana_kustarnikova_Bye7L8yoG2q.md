@@ -1,5 +1,5 @@
 ---
-title: "Арт"
+title: "Арт 823 Браслет"
 date: 2019-06-09
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,9 +23,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62596190_141970846870491_2982756407261037886_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=QDdsevsydkIAX_unJI5&se=8&tp=1&oh=da914cc2e709bfc6f1f29b28203ec1b4&oe=605DC8B0&ig_cache_key=MjA2MjM0NTk1ODQ5NjMwMDIzNA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62049582_333564444003057_8507468004919172069_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=sNKijzCzq7oAX8-lzS4&tp=1&oh=2ed8144aa1320e5ff4cf15cfcb6c1bca&oe=606091A1&ig_cache_key=MjA2MjM0NTk1ODUxMzAyMTQ4OQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/61804469_2119536998142295_9050255932333660988_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=eckGONAcZP4AX_MPMwc&tp=1&oh=9d342585009d0be9e8d68e969d56af4b&oe=605F5F5A&ig_cache_key=MjA2MjM0NTk1ODUwNDcxMzk1NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62596190_141970846870491_2982756407261037886_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=_N09jETGC8QAX8-SkU9&oh=b651ec3013b1db21953589725eb722be&oe=6069A630&ig_cache_key=MjA2MjM0NTk1ODQ5NjMwMDIzNA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62049582_333564444003057_8507468004919172069_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qlb9ovx2T20AX_eWZcB&oh=22842ef8137f8193bb07c74c1e5a04ed&oe=606C6F21&ig_cache_key=MjA2MjM0NTk1ODUxMzAyMTQ4OQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/61804469_2119536998142295_9050255932333660988_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=vMpkiM_slaQAX9GVytI&oh=eab647facff96838706da40d2fddd8f4&oe=606B3CDA&ig_cache_key=MjA2MjM0NTk1ODUwNDcxMzk1NQ%3D%3D.2"
 
 ---
 lorem

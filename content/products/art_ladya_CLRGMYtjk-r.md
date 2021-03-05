@@ -1,5 +1,5 @@
 ---
-title: "\"Тарелка"
+title: "\"Тарелка с Историей\""
 date: 2021-02-14
 draft: false
 tags: ["art_ladya"]
@@ -28,8 +28,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/150382295_718836098785315_2313987702370879530_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=IozCFcC9sxsAX-xPaVH&se=7&tp=1&oh=07a7c28dcb35372beae9964f5e087c18&oe=605DECC3&ig_cache_key=MjUwODgxMzcwMzY2NDQyNDQwMw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/149841362_179801993943879_2887154287842145800_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=gVZdCllQkXkAX8qy0Dw&se=7&tp=1&oh=2ab0c6e6b12f0e8927ad710ef7fab112&oe=605DC474&ig_cache_key=MjUwODgxMzcwMzY4MTIxNjE3NA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/150382295_718836098785315_2313987702370879530_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=RsvTw1FK6vcAX9PkNuK&oh=35d46fa63d7f99d34310b4f41bc0eac9&oe=6069CA43&ig_cache_key=MjUwODgxMzcwMzY2NDQyNDQwMw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/149841362_179801993943879_2887154287842145800_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pyEdSkES8CgAX8XNlMU&oh=2d08bc25259817d6b024151631464aff&oe=6069A1F4&ig_cache_key=MjUwODgxMzcwMzY4MTIxNjE3NA%3D%3D.2"
 
 ---
 lorem
