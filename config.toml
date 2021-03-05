@@ -105,6 +105,10 @@ snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "₽"
 addToCard = "Добавить в корзину"
 ask = "Задать свой вопрос"
+sendnow = "Отправить"
+youname ="Ваше имя"
+youmsg = "Наберите сообщение"
+
 address= "Россия, Ставропольский край, Кисловодск, улица Чайковского, 26А"
   # Preloader
   [params.preloader]
