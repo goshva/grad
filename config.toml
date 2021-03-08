@@ -100,7 +100,7 @@ location = "КМВ, Ставропольский край"
 # copyright
 copyright = "| Copyright &copy; 2021 [goshva](mailto:sha.egor@gmail.com) All Rights Reserved |"
 # Snipcart Credentials
-snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
+snipcartApiKey = "ZDhmNDZiZWYtYmE0Yi00ZGE3LTk2MTYtZTZlY2NhOGRjMDFmNjM3NTAwOTQ5ODUwMDc3NzU4"
 #currencySymbol = "$"
 currencySymbol = "₽"
 addToCard = "Добавить в корзину"
