@@ -87,9 +87,9 @@ for i in data['GraphImages']:
         imagesList+=imageStr
     fulldiscription = fulldiscription.replace('"','\\"')
     fulldiscription = fulldiscription.replace('-','//-')
-    if fulldiscription: #checkit
-        title = fulldiscription.split()[0]
-
+    if fulldiscription: 
+        out = " ".join(fulldiscription.split()[:2])
+        title = re.sub(r'[^\w\s]','',out)
 
     if imagesList and len(images) > 1:
         f = open(destUrl+name+"_"+i["shortcode"]+".md", "w")
