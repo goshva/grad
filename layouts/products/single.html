@@ -23,20 +23,15 @@
         {{ end }}
         <div class="my-4">
           {{ if .Params.PriceBefore }}
-          <s>{{ .Params.PriceBefore }}{{ site.Params.currencySymbol }}</s>
+          <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
           {{ end }}
-          <span class="lead text-primary font-weight-medium">{{ .Params.Price }}{{ site.Params.currencySymbol }}</span>
+          <span class="lead text-primary font-weight-medium">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
         </div>
-        <h5>Описание</h5>
+        <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
-          <a href="https://www.instagram.com/p/{{ .Params.productID | safeURL }}"><i class="ti-instagram text-primary"></i></a>
-        </p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
-          data-item-name="{{ .Title }}"           {{ with .Params.Images }}
-          {{ range first 1 . }}
-          data-item-image="{{ .image | absURL }}"
-          {{ end }} 
-          {{ end }}  data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
+          data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
+          {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
           {{ site.Params.addToCard }}
         </button>
       </div>

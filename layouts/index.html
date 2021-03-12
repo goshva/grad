@@ -19,7 +19,7 @@
         {{ with .video }}
         <a data-toggle="modal" data-src="{{ .videoURL | safeURL }}" data-target="#videoModal"
           class="text-color video-modal"><i
-            class="ti-control-play bg-gradient hover-shadow btn-play mr-2"></i><span>🎥</span></a>
+            class="ti-control-play bg-gradient hover-shadow btn-play mr-2"></i><span>Watch Video</span></a>
         {{ end }}
         <!-- Modal -->
         <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -170,10 +170,8 @@
       <div class="col-lg-4 col-sm-6 mb-4">
         <div class="card border-0 text-center">
           <a href="{{ .Permalink }}">
-            {{ with .Params.Images }}
-            {{ range first 1 . }}
-                <img src="{{ .image | absURL }}" alt="{{ .image | markdownify }}" class="card-img-top rounded-top-0">
-            {{ end }}
+            {{ range first 1 .Params.Images }}
+            <img src="{{ .image | absURL }}" alt="{{ .Title }}" class="card-img-top">
             {{ end }}
           </a>
           <div class="card-body">
@@ -181,18 +179,13 @@
             <p>{{ .Params.Description }}</p>
             <div class="mb-4">
               {{ if .Params.PriceBefore }}
-              <s>{{ .Params.PriceBefore }}{{ site.Params.currencySymbol }}</s>
+              <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
               {{ end }}
-              <span class="lead text-primary">{{ .Params.Price }}{{ site.Params.currencySymbol }}</span>
+              <span class="lead text-primary">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
-              data-item-name="{{ .Title }}" 
-            {{ with .Params.Images }}
-              {{ range first 1 . }}
-              data-item-image="{{ .image | absURL }}"
-              {{ end }} 
-            {{ end }} 
-              data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
+              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
+              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
               {{ site.Params.addToCard }}
             </button>
           </div>
