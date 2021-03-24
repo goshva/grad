@@ -1,5 +1,5 @@
 ---
-title: "\"Ещё сделал"
+title: "Ещё сделал"
 date: 2019-03-14
 draft: false
 tags: ["art_ladya"]
@@ -26,11 +26,11 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/53186649_266740407585139_6900873077591279002_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=etz4Ezia_J8AX8TilGa&oh=d3d979ce7f8670ca71a12c4f364e2468&oe=606AD31C&ig_cache_key=MTk5OTIzMDA2Mzg5OTcwOTAxMw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/52736725_258871841681793_1361937753096465271_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=fEFP0CoRs8cAX-7EUX_&oh=cfa30495fbd1e3fb7aa1b8e45f84f052&oe=606AB65D&ig_cache_key=MTk5OTIzMDA2Mzg5OTYxNDc1OA%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/53561700_152278485784596_5499142610330579326_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=GGhZ84BlNNEAX8D8Zkr&oh=7a104c959816660a05419af06816f49c&oe=606CDA83&ig_cache_key=MTk5OTIzMDA2MzkyNDkzNjM3Nw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/53826641_1215564081935973_2575926333241224674_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=B41aTB8z8GcAX9qgLul&oh=86a70015d11acbb32e2cfa76b8e10b38&oe=606BB06B&ig_cache_key=MTk5OTIzMDA2MzkwODEyMTM2MA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/52837114_634174183719527_5655749754399470242_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=LVU3Ca_9MVQAX8BQUC-&oh=8f076f400298038cd3199fdbfe8d6a81&oe=606CAB7A&ig_cache_key=MTk5OTIzMDA2Mzg5MTI5MTAxMg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/53186649_266740407585139_6900873077591279002_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=RCPJWWJWpX4AX8nvWT1&ccb=7-4&oh=2b40edbf7f0316beab6bb3731f45cb7d&oe=60828E1C&_nc_sid=83d603&ig_cache_key=MTk5OTIzMDA2Mzg5OTcwOTAxMw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/52736725_258871841681793_1361937753096465271_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=LDKpPwZcS1MAX-tGeN2&ccb=7-4&oh=36bafbcab31a3fd243004be871cda166&oe=6082715D&_nc_sid=83d603&ig_cache_key=MTk5OTIzMDA2Mzg5OTYxNDc1OA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/53561700_152278485784596_5499142610330579326_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=25E3I6XmTY4AX8nQBj4&ccb=7-4&oh=24f1dffbfee57cabb4473baf81d6a332&oe=60849583&_nc_sid=83d603&ig_cache_key=MTk5OTIzMDA2MzkyNDkzNjM3Nw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/53826641_1215564081935973_2575926333241224674_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=FOKfrqkjaHEAX8Kf-Cc&ccb=7-4&oh=0f13a52e99c9ae1f206d04016400112c&oe=60836B6B&_nc_sid=83d603&ig_cache_key=MTk5OTIzMDA2MzkwODEyMTM2MA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/52837114_634174183719527_5655749754399470242_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=1HwxYRnb-PcAX9lDwAe&ccb=7-4&oh=ce03620e8372d897dc63b2e749471b6e&oe=6084667A&_nc_sid=83d603&ig_cache_key=MTk5OTIzMDA2Mzg5MTI5MTAxMg%3D%3D.2-ccb7-4"
 
 ---
 lorem

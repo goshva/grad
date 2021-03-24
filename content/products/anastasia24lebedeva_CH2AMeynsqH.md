@@ -1,5 +1,5 @@
 ---
-title: "Любовь С первого"
+title: "Любовь С"
 date: 2020-11-21
 draft: false
 tags: ["anastasia24lebedeva"]
@@ -52,8 +52,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126250397_387108552532960_1191322569731502276_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=PMT5XJTO0CsAX_MzcjX&oh=afe1a25de6bdb5a42b87937a3c7c29c1&oe=606A31F3&ig_cache_key=MjQ0NzE0NDMwMjEyMjI4NjA5MA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126204660_378225383269843_6623562545203163882_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=uir2O2gpoc4AX8Wgdog&oh=955e95e52be3a93258f0a3ba4d490acc&oe=606AEB92&ig_cache_key=MjQ0NzE0NDMwMjEzOTAyNjU4NQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126250397_387108552532960_1191322569731502276_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=OOzs5kfNAQIAX_oopB2&ccb=7-4&oh=0c291c8306f8bbe1feee82b6ffdb13a2&oe=6081ECF3&ig_cache_key=MjQ0NzE0NDMwMjEyMjI4NjA5MA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/126204660_378225383269843_6623562545203163882_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=09gWnyTlULEAX-h9kGm&ccb=7-4&oh=c17c1959c65cea63ac299f4983d43837&oe=6082A692&ig_cache_key=MjQ0NzE0NDMwMjEzOTAyNjU4NQ%3D%3D.2-ccb7-4"
 
 ---
 lorem

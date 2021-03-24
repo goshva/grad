@@ -1,5 +1,5 @@
 ---
-title: "\"Легендарные шахматы"
+title: "Легендарные шахматы"
 date: 2019-02-12
 draft: false
 tags: ["art_ladya"]
@@ -27,9 +27,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51631941_2286072058383174_5485161251172325589_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=F9Q7xprUORwAX9eon4J&oh=7b4a79485d5c445968aa96348e19081c&oe=606B3C28&ig_cache_key=MTk3Nzg4NDAzNjEwNTkxNzQwNA%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/51525981_591204581303612_2424156441522127590_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=6i71Xf9hyu4AX8RAZqw&oh=3865db0243577a915d665eb1f766098c&oe=606D2111&ig_cache_key=MTk3Nzg4NDAzNjEzMTA0OTM1Nw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51305185_242715379969729_8701443407175788394_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=oPAwDhYFE1sAX_snNaw&oh=4679cd518ba89d7439d5ca7e42758c99&oe=606A741A&ig_cache_key=MTk3Nzg4NDAzNjExNDI0MTU0Ng%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51631941_2286072058383174_5485161251172325589_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=bJycPdbP9gsAX9FmYNW&ccb=7-4&oh=0315905385941a77f96322677360f628&oe=6082F728&_nc_sid=83d603&ig_cache_key=MTk3Nzg4NDAzNjEwNTkxNzQwNA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/51525981_591204581303612_2424156441522127590_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=VzogiqY22v8AX98Ku4x&ccb=7-4&oh=5a3268b47b2bb4645a9f123c19674060&oe=6084DC11&_nc_sid=83d603&ig_cache_key=MTk3Nzg4NDAzNjEzMTA0OTM1Nw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51305185_242715379969729_8701443407175788394_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=am76ivJocWEAX86Nz8T&ccb=7-4&oh=6a8328f6d640298bd656bab53a497418&oe=6086239A&_nc_sid=83d603&ig_cache_key=MTk3Nzg4NDAzNjExNDI0MTU0Ng%3D%3D.2-ccb7-4"
 
 ---
 lorem

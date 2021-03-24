@@ -1,5 +1,5 @@
 ---
-title: "Арт 858 Серьги"
+title: "Арт 858"
 date: 2019-07-16
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66907052_476438446518186_7662677416490978130_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=lPw-0BfVR6AAX_hdjnZ&oh=fbf1c648286d0abdb08515c23243388e&oe=606C71E9&ig_cache_key=MjA4OTMwNTUwNzg5OTczOTE0MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/65727448_144581169980767_7496514199487021142_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Hz8nWeFzFPkAX--ywFJ&oh=547dcfa1ccc1fbc68ab4895954cafe19&oe=606B88FC&ig_cache_key=MjA4OTMwNTUwNzg5MTQ5MDU1OA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66907052_476438446518186_7662677416490978130_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=klNInpJwaIAAX_LTrk8&ccb=7-4&oh=98e1b116d3892ee4185419498711aa00&oe=60842CE9&ig_cache_key=MjA4OTMwNTUwNzg5OTczOTE0MQ%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/65727448_144581169980767_7496514199487021142_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=biMSfuQfyPcAX-NSJWp&ccb=7-4&oh=622452f7667920c1db2a467fb960949e&oe=608343FC&ig_cache_key=MjA4OTMwNTUwNzg5MTQ5MDU1OA%3D%3D.2-ccb7-4"
 
 ---
 lorem

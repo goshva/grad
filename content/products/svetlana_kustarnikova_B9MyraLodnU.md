@@ -1,5 +1,5 @@
 ---
-title: "Арт 998 Чокер"
+title: "Арт 998"
 date: 2020-03-01
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,9 +23,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/88288757_544294049778350_670739709582476700_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=3IujJUiT-o4AX8H622v&oh=4435af9aeea898b3c1b2d2e006b55e42&oe=606CC87D&ig_cache_key=MjI1NTQwMDM5MDMxNzA2MzY0Ng%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/88960627_192562708732162_2310380566061869799_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=SP7QS6nzvDoAX8eM1P1&oh=621ba4b8c08920072c16f0ee29d0ecac&oe=606C8EDA&ig_cache_key=MjI1NTQwMDM5MDMzMzg1MzgzNw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/87723862_645662809585893_4481913608788451301_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=BCjftkp9vLEAX9sJljd&oh=53d169a346747c7a581b50aa92beffc4&oe=606BAC8A&ig_cache_key=MjI1NTQwMDM5MDM0MjM1MzUzMw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/88288757_544294049778350_670739709582476700_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=EmTe7LeiU5MAX9talT0&ccb=7-4&oh=a8741ed48b88448c9bb5a2489dc2c257&oe=6084837D&ig_cache_key=MjI1NTQwMDM5MDMxNzA2MzY0Ng%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/88960627_192562708732162_2310380566061869799_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=WDxdYBK11LoAX9roWCj&ccb=7-4&oh=46f976df10aa2863ddfe9ab225745b49&oe=608449DA&ig_cache_key=MjI1NTQwMDM5MDMzMzg1MzgzNw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/87723862_645662809585893_4481913608788451301_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ikBHsgrMhoQAX_Panow&ccb=7-4&oh=22d7c6fc58c3fc8da692db01aa6c35f7&oe=6083678A&ig_cache_key=MjI1NTQwMDM5MDM0MjM1MzUzMw%3D%3D.2-ccb7-4"
 
 ---
 lorem

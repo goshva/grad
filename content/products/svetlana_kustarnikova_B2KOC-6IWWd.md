@@ -1,5 +1,5 @@
 ---
-title: "Арт 916 Колье"
+title: "Арт 916"
 date: 2019-09-08
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/69236934_148131876390007_9120649691729089631_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=kptgVNFiLhgAX_Mx2IQ&oh=7aea32a260b2dd3898bc448a657ab0f8&oe=606AF276&ig_cache_key=MjEyODU3NTU0MzQyMDA4NTk0Mw%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/69621605_499104703999589_1091229910342461109_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=VzBt6wlsJI0AX8BB_IH&oh=ecbd07d4fa249111edb4d5f80fa92869&oe=606D7621&ig_cache_key=MjEyODU3NTU0MzQwMzI0NDAxMg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/69236934_148131876390007_9120649691729089631_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=af3I3VUhzdkAX_9NIDj&ccb=7-4&oh=acf3d81567b75635f6cf89d7f09ee4e6&oe=6082AD76&ig_cache_key=MjEyODU3NTU0MzQyMDA4NTk0Mw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/69621605_499104703999589_1091229910342461109_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=hi0bFz9ed10AX9wEKKU&ccb=7-4&oh=8cee748e51497760420165ffd70f7b3b&oe=60853121&ig_cache_key=MjEyODU3NTU0MzQwMzI0NDAxMg%3D%3D.2-ccb7-4"
 
 ---
 lorem

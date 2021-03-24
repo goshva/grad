@@ -1,5 +1,5 @@
 ---
-title: "Бокал \"Девушка\""
+title: "Бокал Девушка"
 date: 2019-03-28
 draft: false
 tags: ["art_ladya"]
@@ -27,8 +27,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/54800419_1037843666419991_182580189394664329_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=93TQJkp8_XoAX_xPbWl&oh=7d9feed00c55ae141af6f9a09e070c94&oe=6069A0AC&ig_cache_key=MjAwOTU5ODU0MTY4MDQxODI2Ng%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/54463868_2288126874841154_6369791834647618589_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=-_ZXAw9wv8gAX9ZJr6t&oh=2fb9a84ce99cfd5acd6e09586f584674&oe=606C38CD&ig_cache_key=MjAwOTU5ODU0MTY3MjE0OTU2NA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/54800419_1037843666419991_182580189394664329_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=dKUjIkuxN_EAX-pHRxH&ccb=7-4&oh=dbbcc0c654b2bbcc6468cd0905bad6b8&oe=6085502C&_nc_sid=83d603&ig_cache_key=MjAwOTU5ODU0MTY4MDQxODI2Ng%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/54463868_2288126874841154_6369791834647618589_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=MTFcnMpqnKcAX_rlyJX&ccb=7-4&oh=9da802ccf6f1b83fd30cdda0327a42d1&oe=6083F3CD&_nc_sid=83d603&ig_cache_key=MjAwOTU5ODU0MTY3MjE0OTU2NA%3D%3D.2-ccb7-4"
 
 ---
 lorem

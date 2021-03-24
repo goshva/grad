@@ -1,5 +1,5 @@
 ---
-title: "Бокалы \"мужчина\""
+title: "Бокалы мужчина"
 date: 2019-03-22
 draft: false
 tags: ["art_ladya"]
@@ -28,8 +28,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/53672321_319958378597609_5511742055967036138_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=j9VNUsFGYewAX8iar6P&oh=83723f468ae41bd1830303d478e324cb&oe=6069A45E&ig_cache_key=MjAwNTQ0MTAyMDc1MzQwNDc4Nw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/53904458_408994562995246_5000248019995189892_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=XAvkSK3nnlMAX-Qvq_e&oh=b056915053d6b838c19a8c443afbdf46&oe=60698D63&ig_cache_key=MjAwNTQ0MTAyMDc3MDI5NDA0MQ%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/53672321_319958378597609_5511742055967036138_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=tOZ0e8WUV-8AX8rRQdS&ccb=7-4&oh=19678488fff2d0aaf108d91be16ea0a3&oe=608553DE&_nc_sid=83d603&ig_cache_key=MjAwNTQ0MTAyMDc1MzQwNDc4Nw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/53904458_408994562995246_5000248019995189892_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=7ZFuMXAxNX4AX_UHSHQ&ccb=7-4&oh=9890db8efa187e4b924279593d280471&oe=60853CE3&_nc_sid=83d603&ig_cache_key=MjAwNTQ0MTAyMDc3MDI5NDA0MQ%3D%3D.2-ccb7-4"
 
 ---
 lorem

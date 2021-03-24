@@ -1,5 +1,5 @@
 ---
-title: "Арт 894 Подвеска"
+title: "Арт 894"
 date: 2019-07-21
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,9 +23,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66500772_348106936110344_2747468102325632577_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=7veNqGFnGg8AX83Wjnm&oh=e5b6424d00c1faa60c33e5d8f5e3f8ec&oe=606C0234&ig_cache_key=MjA5MzAxMDc2OTY2ODEyNzMzNQ%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66781089_123935772214632_1930576167360466993_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=bZWHXoIRgCoAX-n20Hl&oh=f8f7eb1974007ee3ff683ab671b70522&oe=606D4354&ig_cache_key=MjA5MzAxMDc2OTY0MjkxNDYyMw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66846175_160225381775029_6782858431944335072_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=SprqAvtVkLAAX_WvHMK&oh=615566e8163863528fd65c27b0d73cac&oe=6069842D&ig_cache_key=MjA5MzAxMDc2OTY1MTE5OTg4OA%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66500772_348106936110344_2747468102325632577_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=BaACcLd5rmIAX8c0w_F&ccb=7-4&oh=afe653243f5d8f14dc7a21ed1e205877&oe=6083BD34&ig_cache_key=MjA5MzAxMDc2OTY2ODEyNzMzNQ%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66781089_123935772214632_1930576167360466993_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=6JuEh0VwNt4AX8jU0Rg&ccb=7-4&oh=b9c099d2eea8f3a731429b1ca8a33702&oe=6084FE54&ig_cache_key=MjA5MzAxMDc2OTY0MjkxNDYyMw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66846175_160225381775029_6782858431944335072_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=iyQmRwLNZI0AX-DHZl1&ccb=7-4&oh=404c9ee52c53300e6d648c3eec2ad38f&oe=60813F2D&ig_cache_key=MjA5MzAxMDc2OTY1MTE5OTg4OA%3D%3D.2-ccb7-4"
 
 ---
 lorem

@@ -1,5 +1,5 @@
 ---
-title: ". .Я все"
+title: " Я"
 date: 2019-01-10
 draft: false
 tags: ["sergeiyes"]
@@ -34,8 +34,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/47582798_542542489556572_9134699222396849750_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=6qZdWcqOFD0AX8Bm-dg&oh=86b8ee3a0b717dce814abcc184eeb927&oe=606C88F8&ig_cache_key=MTk1MzU1MDc4NDEyNjI0ODU4NQ%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/50300098_241910129866344_4424547398596394812_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=4MBeHtG9a6IAX9h6ylp&oh=cbbb3e616c65c932d412d502c493fc8d&oe=606A1F18&ig_cache_key=MTk1MzU1MDc4NDEzNDM4MjQ2MQ%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/47582798_542542489556572_9134699222396849750_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=jW-b1tGeEKwAX8gc5Vv&ccb=7-4&oh=764e086897060b921b69e93a585757aa&oe=608443F8&_nc_sid=83d603&ig_cache_key=MTk1MzU1MDc4NDEyNjI0ODU4NQ%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/50300098_241910129866344_4424547398596394812_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=PO-GHkkFzusAX_I3MEG&ccb=7-4&oh=f45c717e96e3a600e17a04a7f9637f29&oe=6085CE98&_nc_sid=83d603&ig_cache_key=MTk1MzU1MDc4NDEzNDM4MjQ2MQ%3D%3D.2-ccb7-4"
 
 ---
 lorem

@@ -1,5 +1,5 @@
 ---
-title: "\"Мезо//-Америка\" керамика."
+title: "МезоАмерика керамика"
 date: 2019-02-20
 draft: false
 tags: ["art_ladya"]
@@ -25,8 +25,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51036651_1999228200378748_1551171125277317880_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=neh7VdbxE3QAX_l8rMr&oh=40aff0b1849ecc135142c383c5b91897&oe=606C7883&ig_cache_key=MTk4MzMyNDQ3NDIyNDc5NzUyMw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51172778_761481250902747_8592350663035298280_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=1TJ4ZagTaR4AX9CW-k2&oh=201589f9bcb6e590fe0a52e7d4b6f244&oe=606C17E1&ig_cache_key=MTk4MzMyNDQ3NDIzMzI3NTkyNg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51036651_1999228200378748_1551171125277317880_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=BgeKCwEOj7MAX9xtOin&ccb=7-4&oh=a2e23cb70028a28739793bf248f4bea1&oe=60843383&_nc_sid=83d603&ig_cache_key=MTk4MzMyNDQ3NDIyNDc5NzUyMw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/51172778_761481250902747_8592350663035298280_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EMFz22hH8sMAX_PVGiZ&ccb=7-4&oh=25a4142bee3922d5dd648290bc5d5a1f&oe=6083D2E1&_nc_sid=83d603&ig_cache_key=MTk4MzMyNDQ3NDIzMzI3NTkyNg%3D%3D.2-ccb7-4"
 
 ---
 lorem

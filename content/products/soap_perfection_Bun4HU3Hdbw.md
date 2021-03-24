@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/51872753_124769865253728_7518383522830245934_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=VyAYFhTBGhgAX_qFGP0&oh=1e98a8bd2250508f62572978bb53c60f&oe=606CBC12&ig_cache_key=MTk5MjgwODE1MDMyNDg3ODYwMw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/52063756_603684076765876_8305736553746892832_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=EM2H19P2kjwAX_MCBJC&oh=e452e254f6701240656df5d3e9adf990&oe=606D72A2&ig_cache_key=MTk5MjgwODE1MDMxNjUyNzAzNQ%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/51872753_124769865253728_7518383522830245934_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=huSPP_p62qMAX9jYzq0&ccb=7-4&oh=2f34a3bad1097bef0376289f57b662b1&oe=60847712&ig_cache_key=MTk5MjgwODE1MDMyNDg3ODYwMw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/52063756_603684076765876_8305736553746892832_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=dWVRikIdo0QAX9-ujx3&ccb=7-4&oh=f0f3fc19f65b53ce9730547e899ff580&oe=60852DA2&ig_cache_key=MTk5MjgwODE1MDMxNjUyNzAzNQ%3D%3D.2-ccb7-4"
 
 ---
 lorem

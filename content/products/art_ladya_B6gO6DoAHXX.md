@@ -1,5 +1,5 @@
 ---
-title: "Мастер//-класс по игре"
+title: "Мастеркласс по"
 date: 2019-12-25
 draft: false
 tags: ["art_ladya"]
@@ -25,10 +25,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/76807765_160084488601956_639771396133354612_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=wJO7halT8RMAX907gzx&oh=2322b49104248bf6299ae6868feb0eaa&oe=606BC0FF&ig_cache_key=MjIwNjgyOTM3Njg5MTQxNzI1MQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/78852968_122548475566691_6329867526951412581_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=aGQ8ucZBI_8AX_OSVWL&oh=b98e3a059e824b856a56255e044649b0&oe=606CD33F&ig_cache_key=MjIwNjgyOTM3Njg3NDY0MDAwMw%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/81144822_112328443413095_2176876663891332949_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=4yDLYTI_LpQAX9Xkucs&oh=c4fae5dfa2da70be86cca269561432dc&oe=606BAE0D&ig_cache_key=MjIwNjgyOTM3NjkxNjUwMzk1OA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/75534235_588244041743834_324672709255918206_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=YRz_sNmxPM0AX82EJO3&oh=abfd9a5b12a37d435b6ab25e06390f05&oe=6069C255&ig_cache_key=MjIwNjgyOTM3Njg5MTMwNDEyMQ%3D%3D.2"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/76807765_160084488601956_639771396133354612_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=YbcS69MYL8cAX92UpX1&ccb=7-4&oh=8816f399676593bbfa4e5885cf769541&oe=60837BFF&_nc_sid=83d603&ig_cache_key=MjIwNjgyOTM3Njg5MTQxNzI1MQ%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/78852968_122548475566691_6329867526951412581_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=7tGEorZ5yRUAX9m4ACC&ccb=7-4&oh=21258898b7b815efbbc7f9f1fcaf4f64&oe=60848E3F&_nc_sid=83d603&ig_cache_key=MjIwNjgyOTM3Njg3NDY0MDAwMw%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/81144822_112328443413095_2176876663891332949_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=oyfJGbUd0LEAX_nBZqI&ccb=7-4&oh=4bfa0554ac41bcc53aa825605ec8505a&oe=6083690D&_nc_sid=83d603&ig_cache_key=MjIwNjgyOTM3NjkxNjUwMzk1OA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/75534235_588244041743834_324672709255918206_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=4rXeC_rY2sUAX_jh473&ccb=7-4&oh=8171cefdba7e22effd38d97da5aac07b&oe=608571D5&_nc_sid=83d603&ig_cache_key=MjIwNjgyOTM3Njg5MTMwNDEyMQ%3D%3D.2-ccb7-4"
 
 ---
 lorem

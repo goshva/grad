@@ -91,12 +91,13 @@ for i in data['GraphImages']:
         out = " ".join(fulldiscription.split()[:2])
         title = re.sub(r'[^\w\s]','',out)
 
-    if imagesList and len(images) > 1:
+    if imagesList and len(images) > 0:
         f = open(destUrl+name+"_"+i["shortcode"]+".md", "w")
         f.write(add2text(name,date,shortcode,title,fulldiscription,price,imagesList))
         f.close()
 
 f.close()
+
 
 
 

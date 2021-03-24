@@ -1,5 +1,5 @@
 ---
-title: "\"Арт Ладья\""
+title: "Арт Ладья"
 date: 2018-07-24
 draft: false
 tags: ["art_ladya"]
@@ -27,9 +27,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/40469724_281728875981126_6327486343207190528_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=L885UhxUlEsAX_Ik2RK&oh=632f2552d18bc9fb391d53121c136d71&oe=606A0914&ig_cache_key=MTgzMDgzMTQ1NzQwMjYxMTM4Mg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/40437356_2193021007406052_5473154594265628672_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=vJNFDiC0F64AX92Fwu1&oh=d20a0cfff0469f34a55f59edfbc06da9&oe=606D4AAA&ig_cache_key=MTgzMDgzMTQ2Nzc5NjA1MzAxNg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/40534821_546101229163775_9006031453133209600_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=hidBNFhcvFgAX9pqMBA&oh=dd962105d3540d21b96f5d49610db7ee&oe=606B41B0&ig_cache_key=MTgzMDgzMTQ3ODA2MzU3NDgwNA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/40469724_281728875981126_6327486343207190528_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=5TAgYnZOJqMAX9xDAuM&ccb=7-4&oh=ab69c2942a08b3ece83177e6a2bea527&oe=6085B894&_nc_sid=83d603&ig_cache_key=MTgzMDgzMTQ1NzQwMjYxMTM4Mg%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/40437356_2193021007406052_5473154594265628672_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=xd8Oqv-EApYAX-BwnI6&ccb=7-4&oh=bfe0ce2cc07039bfdf4f1038a4a4e057&oe=608505AA&_nc_sid=83d603&ig_cache_key=MTgzMDgzMTQ2Nzc5NjA1MzAxNg%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/40534821_546101229163775_9006031453133209600_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Ch8DGw8fxdcAX_Bzi97&ccb=7-4&oh=2d0210571c985d9c2bb0aa1d9093b162&oe=6082FCB0&_nc_sid=83d603&ig_cache_key=MTgzMDgzMTQ3ODA2MzU3NDgwNA%3D%3D.2-ccb7-4"
 
 ---
 lorem

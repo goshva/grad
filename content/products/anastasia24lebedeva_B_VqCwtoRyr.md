@@ -1,5 +1,5 @@
 ---
-title: "🎀Первая игрушка🎀"
+title: "Первая игрушка"
 date: 2020-04-23
 draft: false
 tags: ["anastasia24lebedeva"]
@@ -28,8 +28,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94222136_630326024190306_232086354706181437_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=PjurP31d_ewAX9YcAWi&oh=f16ef27310f6a0c44af5e2738a83a4b5&oe=606ABD40&ig_cache_key=MjI5MzkyNDQ4MjMxNzk4NTEwMg%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94418074_226075358808640_1151066522297466497_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=0a5ytmsQPhYAX_8ZXAn&oh=a4acd1c78ee7bcde921c42c1ae164167&oe=606CDAE3&ig_cache_key=MjI5MzkyNDQ4MjMwMTI2MTk0Nw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94222136_630326024190306_232086354706181437_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=_tjMcl7NwJQAX-KXD-g&ccb=7-4&oh=9fa8256e4a84d4d49c4bdd64efb32fd8&oe=60827840&ig_cache_key=MjI5MzkyNDQ4MjMxNzk4NTEwMg%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94418074_226075358808640_1151066522297466497_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=E3zwaeRpObwAX-wawiV&ccb=7-4&oh=ad5438cac68ff1e929e8961c0fe62795&oe=608495E3&ig_cache_key=MjI5MzkyNDQ4MjMwMTI2MTk0Nw%3D%3D.2-ccb7-4"
 
 ---
 lorem

@@ -1,5 +1,5 @@
 ---
-title: "\"Ароматерапия,,, Подставки"
+title: "Ароматерапия Подставки"
 date: 2021-03-03
 draft: false
 tags: ["art_ladya"]
@@ -28,8 +28,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/155869152_533015720998639_3836742340198331271_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=tjkqQGu_cbgAX8EPdAp&oh=17e8d55ed8f4a10562f459a17ce164ae&oe=606B43E6&ig_cache_key=MjUyMTQxNjY5NTg1Mjg4NzI2Mg%3D%3D.2"
-  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/156360527_4135895339768456_4298919194616401043_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=GzfPbe-1b5sAX_6dF-2&oh=a51d5ebe2cb0f1e1483d2e1260772a26&oe=6069D887&ig_cache_key=MjUyMTQxNjY5NTgzNjA4MzExNw%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/155869152_533015720998639_3836742340198331271_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Ki4lR8_ld9MAX-3xNvK&ccb=7-4&oh=cf12e625c44e70e1021bb2a0298c0ccb&oe=6082FEE6&_nc_sid=83d603&ig_cache_key=MjUyMTQxNjY5NTg1Mjg4NzI2Mg%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/e35/156360527_4135895339768456_4298919194616401043_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=1FaRDEXQJb0AX-Bd7Zf&ccb=7-4&oh=17684b1ecb4e55227593648778ded5a2&oe=60858807&_nc_sid=83d603&ig_cache_key=MjUyMTQxNjY5NTgzNjA4MzExNw%3D%3D.2-ccb7-4"
 
 ---
 lorem

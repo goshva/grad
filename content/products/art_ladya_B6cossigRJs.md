@@ -1,5 +1,5 @@
 ---
-title: "Мастер//-классы с выездом"
+title: "Мастерклассы с"
 date: 2019-12-24
 draft: false
 tags: ["art_ladya"]
@@ -29,8 +29,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/72374188_540851743424047_9034696170840022319_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=JWctMT_FxigAX_GKwVz&oh=a25f2168ed7b3a0f80ba480902cabd3a&oe=606C166A&ig_cache_key=MjIwNTgxNjkwODI4NzA3ODU3Ng%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/79985582_2631559646964292_6393390461141596861_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=T6oTGVa9hhIAX8BywiO&oh=28fbb3630c7146e6d30654a08e2bbe48&oe=606C13DF&ig_cache_key=MjIwNTgxNjkwODI5NTY0MzI0Ng%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/72374188_540851743424047_9034696170840022319_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=imlHh4xPoX0AX8mgMtJ&ccb=7-4&oh=3b8dbeb67bd461bf8f81197c4fb7bef6&oe=6083D16A&_nc_sid=83d603&ig_cache_key=MjIwNTgxNjkwODI4NzA3ODU3Ng%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/79985582_2631559646964292_6393390461141596861_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=2fSCGNB3DrIAX-EoFF9&ccb=7-4&oh=f89fcd01042e8cd971d01d3640f8ccd8&oe=6083CEDF&_nc_sid=83d603&ig_cache_key=MjIwNTgxNjkwODI5NTY0MzI0Ng%3D%3D.2-ccb7-4"
 
 ---
 lorem

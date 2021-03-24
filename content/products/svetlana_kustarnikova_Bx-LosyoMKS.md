@@ -1,5 +1,5 @@
 ---
-title: "АРТ 807 Серьги"
+title: "АРТ 807"
 date: 2019-05-27
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/60664273_203693323943932_444410711757829514_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=lx17mRb9S7oAX_B6FIZ&oh=3126403a44233d96b4392b18b522b37e&oe=606AC986&ig_cache_key=MjA1MzEyOTYyODE5MDY3NDEzNA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/61534883_313255212939098_202770493201347406_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=zqGxidXhdswAX_SS999&oh=1dd989a6b41322d57774d557a8dd1993&oe=606B7E74&ig_cache_key=MjA1MzEyOTYyODE4MjE1ODU5Ng%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/60664273_203693323943932_444410711757829514_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=WJtlX-pvNHAAX8M5Vtx&ccb=7-4&oh=910ab18929621db52346e36369f57d1b&oe=60828486&ig_cache_key=MjA1MzEyOTYyODE5MDY3NDEzNA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/61534883_313255212939098_202770493201347406_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=nEbKHcya7BYAX9AXduq&ccb=7-4&oh=1c2b1d3081b4207f1f8a833322aabf79&oe=60833974&ig_cache_key=MjA1MzEyOTYyODE4MjE1ODU5Ng%3D%3D.2-ccb7-4"
 
 ---
 lorem

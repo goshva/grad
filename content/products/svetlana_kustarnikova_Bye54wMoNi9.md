@@ -1,5 +1,5 @@
 ---
-title: "Арт 816 Бусики"
+title: "Арт 816"
 date: 2019-06-09
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62568503_497134897725697_2777303440109567549_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=H95ybr_rnx4AX-NMXl4&oh=7add7aa74606c8a3176a4f45bc257f36&oe=606C42D7&ig_cache_key=MjA2MjM0MDI0MTIxNTQ0MDcyMA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62455183_141168626996245_1769727965758859310_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=hfGrHUxtPGkAX8Cl_Xr&oh=9dab725a72f5bde7e58a21e51429cf09&oe=606B428B&ig_cache_key=MjA2MjM0MDI0MTIwNjg3MzcwOA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62568503_497134897725697_2777303440109567549_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=cX9nlEP7C_8AX_vz-fC&ccb=7-4&oh=db6e39eacc609412344e401d74431e0b&oe=6083FDD7&ig_cache_key=MjA2MjM0MDI0MTIxNTQ0MDcyMA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/62455183_141168626996245_1769727965758859310_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=D3r09snKuTcAX_aFsBe&ccb=7-4&oh=f5a62b22dc45cb65b72bbd9dc398c5c5&oe=6082FD8B&ig_cache_key=MjA2MjM0MDI0MTIwNjg3MzcwOA%3D%3D.2-ccb7-4"
 
 ---
 lorem

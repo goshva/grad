@@ -1,5 +1,5 @@
 ---
-title: "Проращиватель для зерна"
+title: "Проращиватель для"
 date: 2020-04-29
 draft: false
 tags: ["art_ladya"]
@@ -28,8 +28,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94894702_248184803054554_1679231775584239106_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=nIDLd0O_1j0AX9r_ru7&oh=cb07f94b75263c968cfb8bc860f88766&oe=606BD39E&ig_cache_key=MjI5NzkzNTE4NjUyMjcxNTE4NQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94688212_2107004189445712_1213687030308221681_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=23IQmniOJxgAX-UCMiH&oh=6940031631e1cba833b8e4e923b09110&oe=606B1EDC&ig_cache_key=MjI5NzkzNTE4NjUwNTk2MTU5OA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94894702_248184803054554_1679231775584239106_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=rCE0ZAmNstkAX9jKTWj&ccb=7-4&oh=e801ba71c7fdbc9ea8f1cc40ac349667&oe=60838E9E&_nc_sid=83d603&ig_cache_key=MjI5NzkzNTE4NjUyMjcxNTE4NQ%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/94688212_2107004189445712_1213687030308221681_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=3OJR-jilHTQAX-aP-N5&ccb=7-4&oh=301a6a2f7a458c05ea496ebbdb071a12&oe=6082D9DC&_nc_sid=83d603&ig_cache_key=MjI5NzkzNTE4NjUwNTk2MTU5OA%3D%3D.2-ccb7-4"
 
 ---
 lorem

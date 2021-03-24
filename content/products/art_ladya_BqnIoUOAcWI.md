@@ -1,5 +1,5 @@
 ---
-title: "Рог изобилия."
+title: "Рог изобилия"
 date: 2018-11-25
 draft: false
 tags: ["art_ladya"]
@@ -26,8 +26,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/46274652_327044498076034_8501787348330646794_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=EW5laCcJjTEAX_JsCm3&oh=cfc68f482e2bf16469b86c1bb281d0b4&oe=606B9F71&ig_cache_key=MTkyMDU0MTcxODA3MjA2MDcyOA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/46131031_632086073853561_8955702422784813408_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=rvnbDs1W5WoAX-c6wcJ&oh=f928df26136a6790fb04dd04be157094&oe=606CF8AC&ig_cache_key=MTkyMDU0MTcxODQwNzY1NDE0OA%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/46274652_327044498076034_8501787348330646794_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=ETCHygtI80wAX_KY-bG&ccb=7-4&oh=171c3f33b05715ad4095341a27237331&oe=60835A71&_nc_sid=83d603&ig_cache_key=MTkyMDU0MTcxODA3MjA2MDcyOA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/46131031_632086073853561_8955702422784813408_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=TYRZUPZh4gwAX_sILxG&ccb=7-4&oh=2794c2c83a6af79bfc4a22c05a25a95c&oe=6084B3AC&_nc_sid=83d603&ig_cache_key=MTkyMDU0MTcxODQwNzY1NDE0OA%3D%3D.2-ccb7-4"
 
 ---
 lorem

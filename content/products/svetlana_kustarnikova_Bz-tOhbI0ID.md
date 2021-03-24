@@ -1,5 +1,5 @@
 ---
-title: "Арт 861 Подвеска"
+title: "Арт 861"
 date: 2019-07-16
 draft: false
 tags: ["svetlana_kustarnikova"]
@@ -23,8 +23,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/65796042_109395086896402_3397227560507367669_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=aRJeCVn1SfsAX96dbVD&oh=8bae485560e4b9ae94758140242c1c59&oe=606D0B93&ig_cache_key=MjA4OTMwNjE4MDU5ODk1NDM4MA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66446866_202958787360706_1446757440508079126_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=ckiuolAAXiUAX8YxhMO&oh=226a335da8aee14f2c89aa8789d3257d&oe=606B7809&ig_cache_key=MjA4OTMwNjE4MDYwNzQ0MjMyNg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/65796042_109395086896402_3397227560507367669_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=hF9IJaby7foAX8ytAKm&ccb=7-4&oh=e343dd417a8099e7a7f1cb5ab26fd831&oe=6084C693&ig_cache_key=MjA4OTMwNjE4MDU5ODk1NDM4MA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/66446866_202958787360706_1446757440508079126_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=GF-sknv9xdkAX8KVn9X&ccb=7-4&oh=a37efb9583b18024a6cf6a4927e4aede&oe=60833309&ig_cache_key=MjA4OTMwNjE4MDYwNzQ0MjMyNg%3D%3D.2-ccb7-4"
 
 ---
 lorem

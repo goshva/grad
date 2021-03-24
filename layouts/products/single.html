@@ -14,7 +14,7 @@
           </div>
           {{ end }}
         </div>
-      </div>
+2      </div>
       <div class="col-lg-5 offset-lg-1">
         <h4 class="font-weight-medium">{{ .Title }}</h4>
         <!-- rating star -->
@@ -27,8 +27,10 @@
           {{ end }}
           <span class="lead text-primary font-weight-medium">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
         </div>
-        <h5>Short Description</h5>
-        <p>{{ .Params.ShortDescription | markdownify }}</p>
+        <h5>Описание</h5>
+        <p>{{ .Params.ShortDescription | markdownify }}
+          <a href="https://www.instagram.com/p/{{ .Params.productID | safeURL }}"><i class="ti-instagram text-primary"></i></a>
+        </p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">

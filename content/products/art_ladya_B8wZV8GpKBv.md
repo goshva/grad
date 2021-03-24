@@ -1,5 +1,5 @@
 ---
-title: "Увидеть мир в"
+title: "Увидеть мир"
 date: 2020-02-19
 draft: false
 tags: ["art_ladya"]
@@ -33,8 +33,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/85148738_652604222233861_3493741110899144886_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=miDGY25h2tUAX9gC5UA&oh=42521f788f870b633b09d47b4bdf62d6&oe=6069F8F1&ig_cache_key=MjI0NzQwNzY3MDA1NTQ2MTcwMA%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/84279040_2520140974874462_8126027548961609083_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=YmeS-dpZsCQAX-XJ4vX&oh=28474919d9e03985f0f91453bb394304&oe=606A5C2C&ig_cache_key=MjI0NzQwNzY3MDAzODc5Mjc0Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/85148738_652604222233861_3493741110899144886_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=2iv5Y79hgPQAX87b8OF&ccb=7-4&oh=44b03e77a79d9906069b7074842fc3bd&oe=6085A871&_nc_sid=83d603&ig_cache_key=MjI0NzQwNzY3MDA1NTQ2MTcwMA%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/84279040_2520140974874462_8126027548961609083_n.jpg?se=8&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=TIQhft0dDxAAX9LGsa1&ccb=7-4&oh=f5ae08374cb52eaa1181428fc1378e44&oe=60860BAC&_nc_sid=83d603&ig_cache_key=MjI0NzQwNzY3MDAzODc5Mjc0Mg%3D%3D.2-ccb7-4"
 
 ---
 lorem

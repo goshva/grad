@@ -1,5 +1,5 @@
 ---
-title: "\"Арт Ладья\""
+title: "Арт Ладья"
 date: 2018-08-08
 draft: false
 tags: ["art_ladya"]
@@ -27,8 +27,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/40673069_240348736675538_1048623837345742848_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=Ek3OlSVathkAX9QfZ5A&oh=adf30ac093805d00736a21e35b62d09c&oe=606CAAAD&ig_cache_key=MTg0MTIwNDEyNTAwODA2MjIwMQ%3D%3D.2"
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/39983562_1078727098957619_208408271516598272_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=m_ei3j8mpIMAX-ofree&oh=1767f7e7450f986cae77571f2848bc5a&oe=606CEB7C&ig_cache_key=MTg0MTIwNDEzNTg4ODAzMTY1Mg%3D%3D.2"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/40673069_240348736675538_1048623837345742848_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=ZGdThNsevWgAX-_enE0&ccb=7-4&oh=5a7b7cb441aa23a7d92e01b13ff7fc05&oe=608465AD&_nc_sid=83d603&ig_cache_key=MTg0MTIwNDEyNTAwODA2MjIwMQ%3D%3D.2-ccb7-4"
+  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/39983562_1078727098957619_208408271516598272_n.jpg?se=7&tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=e4AGKgIXljkAX9-gysp&ccb=7-4&oh=ec02360e6b8aaa323faeb3f2b86d5e78&oe=6084A67C&_nc_sid=83d603&ig_cache_key=MTg0MTIwNDEzNTg4ODAzMTY1Mg%3D%3D.2-ccb7-4"
 
 ---
 lorem
