@@ -2,6 +2,7 @@
 import sys
 import json
 import re
+import sqlite3
 from datetime import datetime
 
 def add2text (name,date,sortcode,title,discription,price,images):
@@ -37,11 +38,20 @@ lorem
 '''
     return text
 
-destUrl = "/home/goshva/hugo-sites/grad/content/products/"
+def add2db(name,date,sortcode,title,discription,price,images):
+    con = sqlite3.connect("grad.db")
+    cur = con.cursor()
+    cur.execute("insert into lots(name,date,sortcode,title,discription,price,images) values (?, ?, ?, ?, ?, ?, ?)", (name,date,sortcode,title,discription,price,images))
+    cur.execute("select * from lots")
+    print(cur.fetchall())
+    con.commit()
+    con.close()
+destUrl = "../../grad/content/products/"
+#destUrl = "/home/goshva/hugo-sites/grad/content/products/"
 char = "₽"
 name = sys.argv[1]
 # Opening JSON file 
-f = open(name+'/'+name+'.json',) 
+f = open(name+'/'+name+'.json', encoding="utf-8") 
   
 # returns JSON object as  
 # a dictionary 
@@ -92,9 +102,10 @@ for i in data['GraphImages']:
         title = re.sub(r'[^\w\s]','',out)
 
     if imagesList and len(images) > 1:
-        f = open(destUrl+name+"_"+i["shortcode"]+".md", "w")
-        f.write(add2text(name,date,shortcode,title,fulldiscription,price,imagesList))
-        f.close()
+        #f = open(destUrl+name+"_"+i["shortcode"]+".md", "w")
+        #f.write(add2db(name,date,shortcode,title,fulldiscription,price,imagesList))
+        add2db(name,date,shortcode,title,fulldiscription,price,imagesList)
+        #f.close()
 
 f.close()
 
