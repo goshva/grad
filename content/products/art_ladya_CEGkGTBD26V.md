@@ -28,7 +28,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e35/117955294_429270751389819_3555389593517261394_n.jpg?tp=1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=TU7_oxpKDgMAX9kmjON&ccb=7-4&oh=e822eac3eda0791cf84cdbb9eb836e41&oe=60832599&_nc_sid=86f79a&ig_cache_key=MjM3OTc0ODIxNTUyMjAyOTIwNQ%3D%3D.2-ccb7-4"
+  - image: "https://scontent-frt3-2.cdninstagram.com/v/t51.2885-15/e35/117955294_429270751389819_3555389593517261394_n.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=XMrGS-FpkoIAX93y7QV&edm=APU89FABAAAA&ccb=7-4&oh=717a684f45228e64dd1f9f8587ddc4bd&oe=612B3CD9&_nc_sid=86f79a&ig_cache_key=MjM3OTc0ODIxNTUyMjAyOTIwNQ%3D%3D.2-ccb7-4"
 
 ---
 lorem
