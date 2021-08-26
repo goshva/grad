@@ -87,7 +87,7 @@ video:
 ######################## Products #############################
 products:
   enable : true
-  title : "Products List"
+  title : "Ярмарка"
   # product item comes from "content/products"
 
 
