@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+import os
+from urllib.parse import urlparse
 import sys
 import json
 import re
@@ -38,6 +41,12 @@ lorem
 '''
     return text
 
+def convertImgUrl(url,dest):
+    a = urlparse(url)
+    print(a.path)                    
+    localPath = os.path.basename(a.path)
+    return dest+localPath
+
 def add2db(name,date,sortcode,title,discription,price,images):
     con = sqlite3.connect("grad.db")
     cur = con.cursor()
@@ -51,7 +60,7 @@ destUrl = "../../grad/content/products/"
 char = "₽"
 name = sys.argv[1]
 # Opening JSON file 
-f = open(name+'/'+name+'.json', encoding="utf-8") 
+f = open("../static/images/products/"+name+'/'+name+'.json', encoding="utf-8") 
   
 # returns JSON object as  
 # a dictionary 
@@ -93,6 +102,7 @@ for i in data['GraphImages']:
         price = "3000"
 
     for image in images:
+        image = convertImgUrl(image,"/images/products/"+name+"/")
         imageStr = '''  - image: "'''+image+'''"\n'''
         imagesList+=imageStr
     fulldiscription = fulldiscription.replace('"','\\"')

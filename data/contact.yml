@@ -9,7 +9,7 @@ contact:
 
   # opennig hour
   opennigHour:
-    title : "Opening Hours"
+    title : "Часы работы"
     dayTimeList:
       - dayTime : "Пн: 9:00 – 19:00"
       - dayTime : "Вт: 9:00 – 19:00"
