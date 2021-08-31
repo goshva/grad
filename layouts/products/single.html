@@ -31,7 +31,12 @@
         <p>{{ .Params.ShortDescription | markdownify }}
           <a href="https://www.instagram.com/p/{{ .Params.productID | safeURL }}"><i class="ti-instagram text-primary"></i></a>
         </p>
-
+        <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
+          data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}" data-item-count="1"
+          {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}" data-toggle="modal" data-target="#cartBox">
+          В корзину 
+          <i class="ti-shopping-cart"></i>
+        </button>
       </div>
       <div class="col-12 mt-5">
         <ul class="nav nav-tabs border-bottom-0" id="myTab" role="tablist">
@@ -56,7 +61,31 @@
     </div>
   </div>
 </section>
-
+<!-- Modal -->
+<div class="modal fade" id="cartBox" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <ul class="list-group" id="cartList">
+          <!--<li class="list-group-item d-flex justify-content-between align-items-center list-group-item-success">
+            Morbi leo risus
+            <span class="badge badge-primary badge-pill">1</span>
+          </li>-->
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
 {{ partial "cta.html" . }}
 
 {{ end }}
