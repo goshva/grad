@@ -1,18 +1,18 @@
 ---
-title: "Решила добавить"
+title: "Интерьерная кукла"
 date: 2021-08-12
 draft: false
 tags: ["dubrovinanatalia1963"]
 
 # meta description
-description : "Решила добавить платок."
+description : "Русская кукла-домохозяйка."
 
 # product Price
 price: "3000"
 priceBefore: "3600.0"
 
 # Product Short Description
-shortDescription: "Решила добавить платок."
+shortDescription: "Русская кукла-домохозяйка."
 
 #product ID
 productID: "CSdta6rNhC9"
