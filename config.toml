@@ -97,8 +97,8 @@ googleAnalitycsID = "" # Your ID
 mobile = "89187887119"
 email = "shop@grad-masterov.ru"
 location = "КМВ, Ставропольский край"
-# copyright
-copyright = "| Copyright &copy; 2021 [goshva](mailto:sha.egor@gmail.com) All Rights Reserved |"
+# copyright 
+copyright = "&copy; ООО 2023 [ООО «вАйТи»](https://vit.ooo)"
 # Snipcart Credentials
 snipcartApiKey = "ZDhmNDZiZWYtYmE0Yi00ZGE3LTk2MTYtZTZlY2NhOGRjMDFmNjM3NTAwOTQ5ODUwMDc3NzU4"
 #currencySymbol = "$"
